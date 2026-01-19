@@ -1,0 +1,4 @@
+@reboot sleep 20 && /home/pi/Desktop/MTConnectAdapterMod2/MTConnectAdapter.sh >>
+
+# automatic reboot at 3:00 am Monday morning
+0 3 * * 1 sudo shutdown -r now

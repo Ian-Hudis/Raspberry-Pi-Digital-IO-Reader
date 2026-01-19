@@ -1,0 +1,3697 @@
+2025-04-09 09:12:08.374697 GPIOReader scanning...
+2025-04-09 09:12:09.042083 GPIOReader scanning...
+2025-04-09 09:13:33.812445 Button Pressed
+2025-04-09 09:13:34.145848 Wait for Count
+2025-04-09 09:13:42.663930 GPIOReader scanning...
+2025-04-09 09:19:04.424033 Button Pressed
+2025-04-09 09:19:04.657823 Wait for Count
+2025-04-09 09:19:09.937539 GPIOReader scanning...
+2025-04-09 09:21:16.159815 Button Pressed
+2025-04-09 09:21:16.388559 Wait for Count
+2025-04-09 09:21:27.042510 GPIOReader scanning...
+2025-04-09 09:22:22.150722 Button Pressed
+2025-04-09 09:22:22.379817 Wait for Count
+2025-04-09 09:22:38.190604 GPIOReader scanning...
+2025-04-09 09:25:39.313857 Button Pressed
+2025-04-09 09:25:39.546498 Wait for Count
+2025-04-09 09:25:50.006946 GPIOReader scanning...
+2025-04-09 09:26:44.289736 Button Pressed
+2025-04-09 09:26:44.563513 Wait for Count
+2025-04-09 09:26:55.108267 GPIOReader scanning...
+2025-04-09 09:31:03.601455 Button Pressed
+2025-04-09 09:31:03.866829 Wait for Count
+2025-04-09 09:31:14.370917 GPIOReader scanning...
+2025-04-09 09:32:08.180466 Button Pressed
+2025-04-09 09:32:08.408560 Wait for Count
+2025-04-09 09:32:24.209740 GPIOReader scanning...
+2025-04-09 09:33:12.932069 Button Pressed
+2025-04-09 09:33:13.200414 Wait for Count
+2025-04-09 09:33:29.000471 GPIOReader scanning...
+2025-04-09 09:39:38.636550 Button Pressed
+2025-04-09 09:39:38.897637 Wait for Count
+2025-04-09 09:39:49.394621 GPIOReader scanning...
+2025-04-09 09:45:01.130734 Button Pressed
+2025-04-09 09:45:01.370996 Wait for Count
+2025-04-09 09:45:11.865508 GPIOReader scanning...
+2025-04-09 09:47:09.667835 Button Pressed
+2025-04-09 09:47:09.897557 Wait for Count
+2025-04-09 09:47:20.488708 GPIOReader scanning...
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+Traceback (most recent call last):
+  File "/home/pi/Desktop/GPIOReader.py", line 29, in <module>
+    while true:
+          ^^^^
+NameError: name 'true' is not defined. Did you mean: 'True'?
+2025-04-09 09:50:47.441124 Button Pressed
+2025-04-09 09:51:25.920906 Wait for Count
+2025-04-09 09:51:36.489792 GPIOReader scanning...
+2025-04-09 09:51:36.489792 Button Pressed
+2025-04-09 09:52:29.815119 Wait for Count
+2025-04-09 09:52:40.368522 GPIOReader scanning...
+2025-04-09 09:52:40.368522 Button Pressed
+2025-04-09 09:53:33.765309 Wait for Count
+2025-04-09 09:53:44.264014 GPIOReader scanning...
+2025-04-09 09:53:44.264014 Button Pressed
+2025-04-09 09:54:37.974581 Wait for Count
+2025-04-09 09:54:48.494977 GPIOReader scanning...
+2025-04-09 09:54:48.494977 Button Pressed
+2025-04-09 09:55:41.784448 Wait for Count
+2025-04-09 09:55:57.552750 GPIOReader scanning...
+2025-04-09 09:55:57.552750 Button Pressed
+2025-04-09 09:56:45.384482 Wait for Count
+2025-04-09 09:56:55.872845 GPIOReader scanning...
+2025-04-09 09:56:55.872845 Button Pressed
+2025-04-09 09:57:49.090481 Wait for Count
+2025-04-09 09:58:04.928501 GPIOReader scanning...
+2025-04-09 09:58:04.928501 Button Pressed
+2025-04-09 09:58:53.453874 Wait for Count
+2025-04-09 09:59:09.346097 GPIOReader scanning...
+2025-04-09 09:59:09.346097 Button Pressed
+2025-04-09 09:59:57.408794 Wait for Count
+2025-04-09 10:00:07.981604 GPIOReader scanning...
+2025-04-09 10:00:07.981604 Button Pressed
+2025-04-09 10:01:01.044475 Wait for Count
+2025-04-09 10:01:13.762618 GPIOReader scanning...
+2025-04-09 10:01:13.762618 Button Pressed
+2025-04-09 10:02:05.524431 Wait for Count
+2025-04-09 10:02:14.068905 GPIOReader scanning...
+2025-04-09 10:02:14.068905 Button Pressed
+2025-04-09 10:03:09.198558 Wait for Count
+2025-04-09 10:03:21.901510 GPIOReader scanning...
+2025-04-09 10:03:21.901510 Button Pressed
+2025-04-09 10:04:12.593455 Wait for Count
+2025-04-09 10:04:21.109903 GPIOReader scanning...
+2025-04-09 10:04:21.109903 Button Pressed
+2025-04-09 10:05:16.173507 Wait for Count
+2025-04-09 10:05:28.894673 GPIOReader scanning...
+2025-04-09 10:05:28.894673 Button Pressed
+2025-04-09 10:06:19.471445 Wait for Count
+2025-04-09 10:06:28.022309 GPIOReader scanning...
+2025-04-09 10:06:28.022309 Button Pressed
+2025-04-09 10:07:21.971720 Wait for Count
+2025-04-09 10:07:34.677375 GPIOReader scanning...
+2025-04-09 10:07:34.677375 Button Pressed
+2025-04-09 10:08:25.324294 Wait for Count
+2025-04-09 10:08:38.033872 GPIOReader scanning...
+2025-04-09 10:08:38.033872 Button Pressed
+2025-04-09 10:09:28.487149 Wait for Count
+2025-04-09 10:09:36.966374 GPIOReader scanning...
+2025-04-09 10:09:36.966374 Button Pressed
+2025-04-09 10:10:30.543341 Wait for Count
+2025-04-09 10:10:43.267975 GPIOReader scanning...
+2025-04-09 10:10:43.267975 Button Pressed
+2025-04-09 10:11:33.957804 Wait for Count
+2025-04-09 10:11:46.670451 GPIOReader scanning...
+2025-04-09 10:11:46.670451 Button Pressed
+2025-04-09 10:12:37.499626 Wait for Count
+2025-04-09 10:12:50.298281 GPIOReader scanning...
+2025-04-09 10:12:50.298281 Button Pressed
+2025-04-09 10:13:40.825278 Wait for Count
+2025-04-09 10:13:53.785748 GPIOReader scanning...
+2025-04-09 10:13:53.785748 Button Pressed
+2025-04-09 10:14:43.995981 Wait for Count
+2025-04-09 10:14:56.835584 GPIOReader scanning...
+2025-04-09 10:14:56.835584 Button Pressed
+2025-04-09 10:15:46.322394 GPIOReader scanning...
+2025-04-09 10:15:46.322394 Button Pressed
+2025-04-09 10:16:48.998779 Wait for Count
+2025-04-09 10:17:01.717463 GPIOReader scanning...
+2025-04-09 10:17:01.717463 Button Pressed
+2025-04-09 10:17:51.488846 Wait for Count
+2025-04-09 10:18:04.209570 GPIOReader scanning...
+2025-04-09 10:18:04.209570 Button Pressed
+2025-04-09 10:18:53.780541 Wait for Count
+2025-04-09 10:19:06.553996 GPIOReader scanning...
+2025-04-09 10:19:06.553996 Button Pressed
+2025-04-09 10:19:56.600618 Wait for Count
+2025-04-09 10:20:09.355368 GPIOReader scanning...
+2025-04-09 10:20:09.355368 Button Pressed
+2025-04-09 10:20:59.953437 Wait for Count
+2025-04-09 10:21:12.851733 GPIOReader scanning...
+2025-04-09 10:21:12.851733 Button Pressed
+2025-04-09 10:22:02.582029 Wait for Count
+2025-04-09 10:22:11.134501 GPIOReader scanning...
+2025-04-09 10:22:11.134501 Button Pressed
+2025-04-09 10:23:05.675616 Wait for Count
+2025-04-09 10:23:18.391012 GPIOReader scanning...
+2025-04-09 10:23:18.391012 Button Pressed
+2025-04-09 10:24:08.427628 Wait for Count
+2025-04-09 10:24:21.169869 GPIOReader scanning...
+2025-04-09 10:24:21.169869 Button Pressed
+2025-04-09 10:25:10.695529 Wait for Count
+2025-04-09 10:25:23.410776 GPIOReader scanning...
+2025-04-09 10:25:23.410776 Button Pressed
+2025-04-09 10:26:12.715861 Wait for Count
+2025-04-09 10:26:25.579034 GPIOReader scanning...
+2025-04-09 10:26:25.579034 Button Pressed
+2025-04-09 10:27:14.896478 Wait for Count
+2025-04-09 10:27:27.692445 GPIOReader scanning...
+2025-04-09 10:27:27.692445 Button Pressed
+2025-04-09 10:40:25.319877 Wait for Count
+2025-04-09 10:40:38.074824 GPIOReader scanning...
+2025-04-09 10:40:38.074824 Button Pressed
+2025-04-09 10:41:33.472873 Wait for Count
+2025-04-09 10:41:46.190575 GPIOReader scanning...
+2025-04-09 10:41:46.190575 Button Pressed
+2025-04-09 10:42:41.728784 Wait for Count
+2025-04-09 10:42:54.472730 GPIOReader scanning...
+2025-04-09 10:42:54.472730 Button Pressed
+2025-04-09 10:43:49.812836 Wait for Count
+2025-04-09 10:44:02.561760 GPIOReader scanning...
+2025-04-09 10:44:02.561760 Button Pressed
+2025-04-09 10:44:57.457136 Wait for Count
+2025-04-09 10:45:05.973445 GPIOReader scanning...
+2025-04-09 10:45:05.973445 Button Pressed
+2025-04-09 10:46:05.179627 Wait for Count
+2025-04-09 10:46:17.899816 GPIOReader scanning...
+2025-04-09 10:46:17.899816 Button Pressed
+2025-04-09 10:47:12.715041 Wait for Count
+2025-04-09 10:47:21.245944 GPIOReader scanning...
+2025-04-09 10:47:21.245944 Button Pressed
+2025-04-09 10:48:20.485179 Wait for Count
+2025-04-09 10:48:33.200947 GPIOReader scanning...
+2025-04-09 10:48:33.200947 Button Pressed
+2025-04-09 10:49:27.351283 Wait for Count
+2025-04-09 10:49:40.077571 GPIOReader scanning...
+2025-04-09 10:49:40.077571 Button Pressed
+2025-04-09 10:50:35.196953 Wait for Count
+2025-04-09 10:50:48.051707 GPIOReader scanning...
+2025-04-09 10:50:48.051707 Button Pressed
+2025-04-09 10:51:42.184781 Wait for Count
+2025-04-09 10:51:54.907559 GPIOReader scanning...
+2025-04-09 10:51:54.907559 Button Pressed
+2025-04-09 10:52:49.254751 Wait for Count
+2025-04-09 10:52:57.711209 GPIOReader scanning...
+2025-04-09 10:52:57.711209 Button Pressed
+2025-04-09 10:53:55.001649 Wait for Count
+2025-04-09 10:54:07.739272 GPIOReader scanning...
+2025-04-09 10:54:07.739272 Button Pressed
+2025-04-09 10:55:02.000674 Wait for Count
+2025-04-09 10:55:14.720660 GPIOReader scanning...
+2025-04-09 10:55:14.720660 Button Pressed
+2025-04-09 10:56:09.086905 Wait for Count
+2025-04-09 10:56:21.802605 GPIOReader scanning...
+2025-04-09 10:56:21.802605 Button Pressed
+2025-04-09 10:57:16.084255 Wait for Count
+2025-04-09 10:57:28.800409 GPIOReader scanning...
+2025-04-09 10:57:28.800409 Button Pressed
+2025-04-09 10:58:23.041800 Wait for Count
+2025-04-09 10:58:35.759959 GPIOReader scanning...
+2025-04-09 10:58:35.759959 Button Pressed
+2025-04-09 10:59:30.164052 Wait for Count
+2025-04-09 10:59:42.908435 GPIOReader scanning...
+2025-04-09 10:59:42.908435 Button Pressed
+2025-04-09 11:00:36.772349 Wait for Count
+2025-04-09 11:00:49.491379 GPIOReader scanning...
+2025-04-09 11:00:49.491379 Button Pressed
+2025-04-09 11:01:43.460783 Wait for Count
+2025-04-09 11:01:56.212876 GPIOReader scanning...
+2025-04-09 11:01:56.212876 Button Pressed
+2025-04-09 11:02:50.348950 Wait for Count
+2025-04-09 11:03:03.090415 GPIOReader scanning...
+2025-04-09 11:03:03.090415 Button Pressed
+2025-04-09 11:03:56.703303 Wait for Count
+2025-04-09 11:04:09.489429 GPIOReader scanning...
+2025-04-09 11:04:09.489429 Button Pressed
+2025-04-09 11:05:03.260699 Wait for Count
+2025-04-09 11:05:15.936949 GPIOReader scanning...
+2025-04-09 11:05:15.936949 Button Pressed
+2025-04-09 11:06:09.889772 Wait for Count
+2025-04-09 11:06:22.597471 GPIOReader scanning...
+2025-04-09 11:06:22.597471 Button Pressed
+2025-04-09 11:07:16.290298 Wait for Count
+2025-04-09 11:07:29.005932 GPIOReader scanning...
+2025-04-09 11:07:29.005932 Button Pressed
+2025-04-09 11:08:22.711402 Wait for Count
+2025-04-09 11:08:35.429062 GPIOReader scanning...
+2025-04-09 11:08:35.429062 Button Pressed
+2025-04-09 11:09:28.973320 Wait for Count
+2025-04-09 11:09:41.756673 GPIOReader scanning...
+2025-04-09 11:09:41.756673 Button Pressed
+2025-04-09 11:10:35.535114 Wait for Count
+2025-04-09 11:10:48.211636 GPIOReader scanning...
+2025-04-09 11:10:48.211636 Button Pressed
+2025-04-09 11:11:41.155871 Wait for Count
+2025-04-09 11:11:53.832517 GPIOReader scanning...
+2025-04-09 11:11:53.832517 Button Pressed
+2025-04-09 11:12:47.267430 Wait for Count
+2025-04-09 11:12:59.998096 GPIOReader scanning...
+2025-04-09 11:12:59.998096 Button Pressed
+2025-04-09 11:13:53.100346 Wait for Count
+2025-04-09 11:14:05.826663 GPIOReader scanning...
+2025-04-09 11:14:05.826663 Button Pressed
+2025-04-09 11:14:59.411511 Wait for Count
+2025-04-09 11:15:12.108679 GPIOReader scanning...
+2025-04-09 11:15:12.108679 Button Pressed
+2025-04-09 11:16:04.601217 Wait for Count
+2025-04-09 11:16:17.319883 GPIOReader scanning...
+2025-04-09 11:16:17.319883 Button Pressed
+2025-04-09 11:17:10.748212 Wait for Count
+2025-04-09 11:17:23.465285 GPIOReader scanning...
+2025-04-09 11:17:23.465285 Button Pressed
+2025-04-09 11:18:16.843574 Wait for Count
+2025-04-09 11:18:29.566672 GPIOReader scanning...
+2025-04-09 11:18:29.566672 Button Pressed
+2025-04-09 11:19:22.340538 Wait for Count
+2025-04-09 11:19:35.042333 GPIOReader scanning...
+2025-04-09 11:19:35.042333 Button Pressed
+2025-04-09 11:20:28.098693 Wait for Count
+2025-04-09 11:20:40.813628 GPIOReader scanning...
+2025-04-09 11:20:40.813628 Button Pressed
+2025-04-09 11:21:34.171529 Wait for Count
+2025-04-09 11:21:46.887313 GPIOReader scanning...
+2025-04-09 11:21:46.887313 Button Pressed
+2025-04-09 11:22:40.168568 Wait for Count
+2025-04-09 11:22:52.890231 GPIOReader scanning...
+2025-04-09 11:22:52.890231 Button Pressed
+2025-04-09 11:23:46.125945 Wait for Count
+2025-04-09 11:23:58.840029 GPIOReader scanning...
+2025-04-09 11:23:58.840029 Button Pressed
+2025-04-09 11:24:51.834342 Wait for Count
+2025-04-09 11:25:04.582514 GPIOReader scanning...
+2025-04-09 11:25:04.582514 Button Pressed
+2025-04-09 11:25:57.782208 Wait for Count
+2025-04-09 11:26:10.591357 GPIOReader scanning...
+2025-04-09 11:26:10.591357 Button Pressed
+2025-04-09 11:27:03.814792 Wait for Count
+2025-04-09 11:27:16.660200 GPIOReader scanning...
+2025-04-09 11:27:16.660200 Button Pressed
+2025-04-09 11:28:08.917119 Wait for Count
+2025-04-09 11:28:21.704009 GPIOReader scanning...
+2025-04-09 11:28:21.704009 Button Pressed
+2025-04-09 11:29:14.746883 Wait for Count
+2025-04-09 11:29:27.518168 GPIOReader scanning...
+2025-04-09 11:29:27.518168 Button Pressed
+2025-04-09 11:30:20.606035 Wait for Count
+2025-04-09 11:30:33.389298 GPIOReader scanning...
+2025-04-09 11:30:33.389298 Button Pressed
+2025-04-09 11:31:26.439314 Wait for Count
+2025-04-09 11:31:34.975509 GPIOReader scanning...
+2025-04-09 11:31:34.975509 Button Pressed
+2025-04-09 11:32:31.946955 Wait for Count
+2025-04-09 11:32:44.796415 GPIOReader scanning...
+2025-04-09 11:32:44.796415 Button Pressed
+2025-04-09 11:33:37.441039 Wait for Count
+2025-04-09 11:33:50.212950 GPIOReader scanning...
+2025-04-09 11:33:50.212950 Button Pressed
+2025-04-09 11:34:42.672023 Wait for Count
+2025-04-09 11:34:55.380465 GPIOReader scanning...
+2025-04-09 11:34:55.380465 Button Pressed
+2025-04-09 11:35:48.205255 Wait for Count
+2025-04-09 11:36:00.960258 GPIOReader scanning...
+2025-04-09 11:36:00.960258 Button Pressed
+2025-04-09 11:36:53.124352 Wait for Count
+2025-04-09 11:37:05.826386 GPIOReader scanning...
+2025-04-09 11:37:05.826386 Button Pressed
+2025-04-09 11:37:58.712908 Wait for Count
+2025-04-09 11:38:11.426456 GPIOReader scanning...
+2025-04-09 11:38:11.426456 Button Pressed
+2025-04-09 11:39:04.315431 Wait for Count
+2025-04-09 11:39:17.127045 GPIOReader scanning...
+2025-04-09 11:39:17.127045 Button Pressed
+2025-04-09 11:40:09.961020 Wait for Count
+2025-04-09 11:40:22.714861 GPIOReader scanning...
+2025-04-09 11:40:22.714861 Button Pressed
+2025-04-09 11:41:15.492439 Wait for Count
+2025-04-09 11:41:28.187606 GPIOReader scanning...
+2025-04-09 11:41:28.187606 Button Pressed
+2025-04-09 11:42:20.666613 Wait for Count
+2025-04-09 11:42:33.412466 GPIOReader scanning...
+2025-04-09 11:42:33.412466 Button Pressed
+2025-04-09 11:43:25.727365 Wait for Count
+2025-04-09 11:43:38.434776 GPIOReader scanning...
+2025-04-09 11:43:38.434776 Button Pressed
+2025-04-09 11:44:30.800257 Wait for Count
+2025-04-09 11:44:43.548360 GPIOReader scanning...
+2025-04-09 11:44:43.548360 Button Pressed
+2025-04-09 11:45:36.102731 Wait for Count
+2025-04-09 11:45:48.796577 GPIOReader scanning...
+2025-04-09 11:45:48.796577 Button Pressed
+2025-04-09 11:46:41.441008 Wait for Count
+2025-04-09 11:46:49.966380 GPIOReader scanning...
+2025-04-09 11:46:49.966380 Button Pressed
+2025-04-09 11:47:46.157913 Wait for Count
+2025-04-09 11:47:58.873909 GPIOReader scanning...
+2025-04-09 11:47:58.873909 Button Pressed
+2025-04-09 11:48:50.533554 Wait for Count
+2025-04-09 11:49:03.250645 GPIOReader scanning...
+2025-04-09 11:49:03.250645 Button Pressed
+2025-04-09 11:49:55.082668 Wait for Count
+2025-04-09 11:50:07.796927 GPIOReader scanning...
+2025-04-09 11:50:07.796927 Button Pressed
+2025-04-09 11:51:00.004401 Wait for Count
+2025-04-09 11:51:12.753743 GPIOReader scanning...
+2025-04-09 11:51:12.753743 Button Pressed
+2025-04-09 11:52:04.621046 Wait for Count
+2025-04-09 11:52:17.340932 GPIOReader scanning...
+2025-04-09 11:52:17.340932 Button Pressed
+2025-04-09 11:53:09.838046 Wait for Count
+2025-04-09 11:53:22.543297 GPIOReader scanning...
+2025-04-09 11:53:22.543297 Button Pressed
+2025-04-09 11:54:13.817140 Wait for Count
+2025-04-09 11:54:26.566163 GPIOReader scanning...
+2025-04-09 11:54:26.566163 Button Pressed
+2025-04-09 11:55:18.412324 Wait for Count
+2025-04-09 11:55:26.957260 GPIOReader scanning...
+2025-04-09 11:55:26.957260 Button Pressed
+2025-04-09 11:56:23.195009 Wait for Count
+2025-04-09 11:56:35.906071 GPIOReader scanning...
+2025-04-09 11:56:35.906071 Button Pressed
+2025-04-09 11:57:27.914433 Wait for Count
+2025-04-09 11:57:40.628483 GPIOReader scanning...
+2025-04-09 11:57:40.628483 Button Pressed
+2025-04-09 11:58:32.617517 Wait for Count
+2025-04-09 11:58:45.369579 GPIOReader scanning...
+2025-04-09 11:58:45.369579 Button Pressed
+2025-04-09 11:59:37.251548 Wait for Count
+2025-04-09 11:59:45.803485 GPIOReader scanning...
+2025-04-09 11:59:45.803485 Button Pressed
+2025-04-09 12:00:41.575962 Wait for Count
+2025-04-09 12:00:54.278513 GPIOReader scanning...
+2025-04-09 12:00:54.278513 Button Pressed
+2025-04-09 12:01:46.212427 Wait for Count
+2025-04-09 12:01:58.928610 GPIOReader scanning...
+2025-04-09 12:01:58.928610 Button Pressed
+2025-04-09 12:02:49.635314 Wait for Count
+2025-04-09 12:03:02.398764 GPIOReader scanning...
+2025-04-09 12:03:02.398764 Button Pressed
+2025-04-09 12:03:53.833510 Wait for Count
+2025-04-09 12:04:06.548467 GPIOReader scanning...
+2025-04-09 12:04:06.548467 Button Pressed
+2025-04-09 12:04:57.995395 Wait for Count
+2025-04-09 12:05:10.676555 GPIOReader scanning...
+2025-04-09 12:05:10.676555 Button Pressed
+2025-04-09 12:06:02.081308 Wait for Count
+2025-04-09 12:06:14.793619 GPIOReader scanning...
+2025-04-09 12:06:14.793619 Button Pressed
+2025-04-09 12:07:06.746308 Wait for Count
+2025-04-09 12:07:19.461239 GPIOReader scanning...
+2025-04-09 12:07:19.461239 Button Pressed
+2025-04-09 12:08:11.329724 Wait for Count
+2025-04-09 12:08:24.047422 GPIOReader scanning...
+2025-04-09 12:08:24.047422 Button Pressed
+2025-04-09 12:09:15.584316 Wait for Count
+2025-04-09 12:09:28.297531 GPIOReader scanning...
+2025-04-09 12:09:28.297531 Button Pressed
+2025-04-09 12:10:19.264413 Wait for Count
+2025-04-09 12:10:31.982720 GPIOReader scanning...
+2025-04-09 12:10:31.982720 Button Pressed
+2025-04-09 12:11:23.400507 Wait for Count
+2025-04-09 12:11:36.187562 GPIOReader scanning...
+2025-04-09 12:11:36.187562 Button Pressed
+2025-04-09 12:12:27.660266 Wait for Count
+2025-04-09 12:12:40.369587 GPIOReader scanning...
+2025-04-09 12:12:40.369587 Button Pressed
+2025-04-09 12:13:31.866772 Wait for Count
+2025-04-09 12:13:44.574543 GPIOReader scanning...
+2025-04-09 12:13:44.574543 Button Pressed
+2025-04-09 12:14:35.834810 Wait for Count
+2025-04-09 12:14:48.548264 GPIOReader scanning...
+2025-04-09 12:14:48.548264 Button Pressed
+2025-04-09 12:15:40.207390 Wait for Count
+2025-04-09 12:15:52.918579 GPIOReader scanning...
+2025-04-09 12:15:52.918579 Button Pressed
+2025-04-09 12:16:44.744073 Wait for Count
+2025-04-09 12:16:57.481864 GPIOReader scanning...
+2025-04-09 12:16:57.481864 Button Pressed
+2025-04-09 12:17:49.372804 Wait for Count
+2025-04-09 12:18:02.155442 GPIOReader scanning...
+2025-04-09 12:18:02.155442 Button Pressed
+2025-04-09 12:18:53.429660 Wait for Count
+2025-04-09 12:19:06.149249 GPIOReader scanning...
+2025-04-09 12:19:06.149249 Button Pressed
+2025-04-09 12:19:56.955956 Wait for Count
+2025-04-09 12:20:05.487052 GPIOReader scanning...
+2025-04-09 12:20:05.487052 Button Pressed
+2025-04-09 12:21:00.518953 Wait for Count
+2025-04-09 12:21:13.223788 GPIOReader scanning...
+2025-04-09 12:21:13.223788 Button Pressed
+2025-04-09 12:22:03.572986 Wait for Count
+2025-04-09 12:22:16.364939 GPIOReader scanning...
+2025-04-09 12:22:16.364939 Button Pressed
+2025-04-09 12:23:06.614588 Wait for Count
+2025-04-09 12:23:19.329582 GPIOReader scanning...
+2025-04-09 12:23:19.329582 Button Pressed
+2025-04-09 12:24:10.385589 Wait for Count
+2025-04-09 12:24:23.085736 GPIOReader scanning...
+2025-04-09 12:24:23.085736 Button Pressed
+2025-04-09 12:25:13.823178 Wait for Count
+2025-04-09 12:25:26.521731 GPIOReader scanning...
+2025-04-09 12:25:26.521731 Button Pressed
+2025-04-09 12:26:17.555117 Wait for Count
+2025-04-09 12:26:30.267236 GPIOReader scanning...
+2025-04-09 12:26:30.267236 Button Pressed
+2025-04-09 12:27:21.168914 Wait for Count
+2025-04-09 12:27:33.903688 GPIOReader scanning...
+2025-04-09 12:27:33.903688 Button Pressed
+2025-04-09 12:28:24.445614 Wait for Count
+2025-04-09 12:28:37.160473 GPIOReader scanning...
+2025-04-09 12:28:37.160473 Button Pressed
+2025-04-09 12:29:28.038680 Wait for Count
+2025-04-09 12:29:36.496557 GPIOReader scanning...
+2025-04-09 12:29:36.496557 Button Pressed
+2025-04-09 12:30:31.917362 Wait for Count
+2025-04-09 12:30:44.629452 GPIOReader scanning...
+2025-04-09 12:30:44.629452 Button Pressed
+2025-04-09 12:31:35.223150 Wait for Count
+2025-04-09 12:31:43.684357 GPIOReader scanning...
+2025-04-09 12:31:43.684357 Button Pressed
+2025-04-09 12:32:38.819669 Wait for Count
+2025-04-09 12:32:51.537598 GPIOReader scanning...
+2025-04-09 12:32:51.537598 Button Pressed
+2025-04-09 12:33:42.305554 Wait for Count
+2025-04-09 12:33:50.780536 GPIOReader scanning...
+2025-04-09 12:33:50.780536 Button Pressed
+2025-04-09 12:34:45.951740 Wait for Count
+2025-04-09 12:34:58.664511 GPIOReader scanning...
+2025-04-09 12:34:58.664511 Button Pressed
+2025-04-09 12:35:49.049413 Wait for Count
+2025-04-09 12:36:01.882255 GPIOReader scanning...
+2025-04-09 12:36:01.882255 Button Pressed
+2025-04-09 12:36:51.846492 Wait for Count
+2025-04-09 12:37:04.576072 GPIOReader scanning...
+2025-04-09 12:37:04.576072 Button Pressed
+2025-04-09 12:37:55.572411 Wait for Count
+2025-04-09 12:38:08.295193 GPIOReader scanning...
+2025-04-09 12:38:08.295193 Button Pressed
+2025-04-09 12:38:58.744966 Wait for Count
+2025-04-09 12:39:02.993882 Wait for Count
+2025-04-09 12:39:11.467901 GPIOReader scanning...
+2025-04-09 12:39:11.467901 Button Pressed
+2025-04-09 12:40:02.198584 Wait for Count
+2025-04-09 12:40:14.913874 GPIOReader scanning...
+2025-04-09 12:40:14.913874 Button Pressed
+2025-04-09 12:41:05.626451 Wait for Count
+2025-04-09 12:41:14.177055 GPIOReader scanning...
+2025-04-09 12:41:14.177055 Button Pressed
+2025-04-09 12:42:08.718048 Wait for Count
+2025-04-09 12:42:21.415939 GPIOReader scanning...
+2025-04-09 12:42:21.415939 Button Pressed
+2025-04-09 12:43:12.073070 Wait for Count
+2025-04-09 12:43:24.792063 GPIOReader scanning...
+2025-04-09 12:43:24.792063 Button Pressed
+2025-04-09 12:44:15.449057 Wait for Count
+2025-04-09 12:44:28.155364 GPIOReader scanning...
+2025-04-09 12:44:28.155364 Button Pressed
+2025-04-09 12:45:18.520044 Wait for Count
+2025-04-09 12:45:31.268576 GPIOReader scanning...
+2025-04-09 12:45:31.268576 Button Pressed
+2025-04-09 12:46:21.594292 Wait for Count
+2025-04-09 12:46:30.151422 GPIOReader scanning...
+2025-04-09 12:46:30.151422 Button Pressed
+2025-04-09 12:47:24.553563 Wait for Count
+2025-04-09 12:47:37.257513 GPIOReader scanning...
+2025-04-09 12:47:37.257513 Button Pressed
+2025-04-09 12:48:27.299909 Wait for Count
+2025-04-09 12:48:40.014101 GPIOReader scanning...
+2025-04-09 12:48:40.014101 Button Pressed
+2025-04-09 12:49:30.410777 Wait for Count
+2025-04-09 12:49:43.224704 GPIOReader scanning...
+2025-04-09 12:49:43.224704 Button Pressed
+2025-04-09 12:50:33.198483 Wait for Count
+2025-04-09 12:50:45.923545 GPIOReader scanning...
+2025-04-09 12:50:45.923545 Button Pressed
+2025-04-09 12:51:36.142923 Wait for Count
+2025-04-09 12:51:48.858530 GPIOReader scanning...
+2025-04-09 12:51:48.858530 Button Pressed
+2025-04-09 12:52:39.169609 Wait for Count
+2025-04-09 12:52:51.911119 GPIOReader scanning...
+2025-04-09 12:52:51.911119 Button Pressed
+2025-04-09 12:53:41.991819 Wait for Count
+2025-04-09 12:53:54.710976 GPIOReader scanning...
+2025-04-09 12:53:54.710976 Button Pressed
+2025-04-09 12:54:44.739586 Wait for Count
+2025-04-09 12:54:57.491789 GPIOReader scanning...
+2025-04-09 12:54:57.491789 Button Pressed
+2025-04-09 12:55:47.941531 Wait for Count
+2025-04-09 12:56:00.659233 GPIOReader scanning...
+2025-04-09 12:56:00.659233 Button Pressed
+2025-04-09 12:56:51.363372 Wait for Count
+2025-04-09 12:57:04.043123 GPIOReader scanning...
+2025-04-09 12:57:04.043123 Button Pressed
+2025-04-09 12:57:54.529498 Wait for Count
+2025-04-09 12:58:07.246990 GPIOReader scanning...
+2025-04-09 12:58:07.246990 Button Pressed
+2025-04-09 12:58:58.074721 Wait for Count
+2025-04-09 12:59:10.754038 GPIOReader scanning...
+2025-04-09 12:59:10.754038 Button Pressed
+2025-04-09 13:28:14.248928 Wait for Count
+2025-04-09 13:28:27.096019 GPIOReader scanning...
+2025-04-09 13:28:27.096019 Button Pressed
+2025-04-09 13:29:21.944327 Wait for Count
+2025-04-09 13:29:34.676635 GPIOReader scanning...
+2025-04-09 13:29:34.676635 Button Pressed
+2025-04-09 13:30:29.297210 Wait for Count
+2025-04-09 13:30:37.802760 GPIOReader scanning...
+2025-04-09 13:30:37.802760 Button Pressed
+2025-04-09 13:31:35.695526 Wait for Count
+2025-04-09 13:31:48.413380 GPIOReader scanning...
+2025-04-09 13:31:48.413380 Button Pressed
+2025-04-09 13:32:41.526427 Wait for Count
+2025-04-09 13:32:54.252934 GPIOReader scanning...
+2025-04-09 13:32:54.252934 Button Pressed
+2025-04-09 13:33:46.961649 Wait for Count
+2025-04-09 13:33:59.680427 GPIOReader scanning...
+2025-04-09 13:33:59.680427 Button Pressed
+2025-04-09 13:34:51.968548 Wait for Count
+2025-04-09 13:35:00.498115 GPIOReader scanning...
+2025-04-09 13:35:00.498115 Button Pressed
+2025-04-09 13:35:57.131345 Wait for Count
+2025-04-09 13:36:09.873429 GPIOReader scanning...
+2025-04-09 13:36:09.873429 Button Pressed
+2025-04-09 13:37:02.360791 Wait for Count
+2025-04-09 13:37:15.246666 GPIOReader scanning...
+2025-04-09 13:37:15.246666 Button Pressed
+2025-04-09 13:38:06.731536 Wait for Count
+2025-04-09 13:38:19.496432 GPIOReader scanning...
+2025-04-09 13:38:19.496432 Button Pressed
+2025-04-09 13:39:11.265576 Wait for Count
+2025-04-09 13:39:19.990759 GPIOReader scanning...
+2025-04-09 13:39:19.990759 Button Pressed
+2025-04-09 13:40:16.524715 Wait for Count
+2025-04-09 13:40:29.445510 GPIOReader scanning...
+2025-04-09 13:40:29.445510 Button Pressed
+2025-04-09 13:41:22.232149 Wait for Count
+2025-04-09 13:41:35.049681 GPIOReader scanning...
+2025-04-09 13:41:35.049681 Button Pressed
+2025-04-09 13:42:27.701635 Wait for Count
+2025-04-09 13:42:40.483388 GPIOReader scanning...
+2025-04-09 13:42:40.483388 Button Pressed
+2025-04-09 13:43:33.540560 Wait for Count
+2025-04-09 13:43:46.286686 GPIOReader scanning...
+2025-04-09 13:43:46.286686 Button Pressed
+2025-04-09 13:44:38.289780 Wait for Count
+2025-04-09 13:44:50.997652 GPIOReader scanning...
+2025-04-09 13:44:50.997652 Button Pressed
+2025-04-09 13:45:43.571094 Wait for Count
+2025-04-09 13:45:56.290577 GPIOReader scanning...
+2025-04-09 13:45:56.290577 Button Pressed
+2025-04-09 13:46:48.398456 Wait for Count
+2025-04-09 13:47:01.123585 GPIOReader scanning...
+2025-04-09 13:47:01.123585 Button Pressed
+2025-04-09 13:47:53.389439 Wait for Count
+2025-04-09 13:48:01.844231 GPIOReader scanning...
+2025-04-09 13:48:01.844231 Button Pressed
+2025-04-09 13:48:58.595085 Wait for Count
+2025-04-09 13:49:07.144262 GPIOReader scanning...
+2025-04-09 13:49:07.144262 Button Pressed
+2025-04-09 13:50:03.552875 Wait for Count
+2025-04-09 13:50:16.300755 GPIOReader scanning...
+2025-04-09 13:50:16.300755 Button Pressed
+2025-04-09 13:51:08.932009 Wait for Count
+2025-04-09 13:51:21.651182 GPIOReader scanning...
+2025-04-09 13:51:21.651182 Button Pressed
+2025-04-09 13:52:14.065061 Wait for Count
+2025-04-09 13:52:26.783021 GPIOReader scanning...
+2025-04-09 13:52:26.783021 Button Pressed
+2025-04-09 13:53:19.033003 Wait for Count
+2025-04-09 13:53:31.765012 GPIOReader scanning...
+2025-04-09 13:53:31.765012 Button Pressed
+2025-04-09 13:54:24.090737 Wait for Count
+2025-04-09 13:54:36.806761 GPIOReader scanning...
+2025-04-09 13:54:36.806761 Button Pressed
+2025-04-09 13:55:28.786145 Wait for Count
+2025-04-09 13:55:37.303313 GPIOReader scanning...
+2025-04-09 13:55:37.303313 Button Pressed
+2025-04-09 13:56:34.264714 Wait for Count
+2025-04-09 13:56:42.801107 GPIOReader scanning...
+2025-04-09 13:56:42.801107 Button Pressed
+2025-04-09 13:57:39.196489 Wait for Count
+2025-04-09 13:57:51.916616 GPIOReader scanning...
+2025-04-09 13:57:51.916616 Button Pressed
+2025-04-09 13:58:43.812467 Wait for Count
+2025-04-09 13:58:56.532965 GPIOReader scanning...
+2025-04-09 13:58:56.532965 Button Pressed
+2025-04-09 13:59:47.987740 Wait for Count
+2025-04-09 14:00:00.704937 GPIOReader scanning...
+2025-04-09 14:00:00.704937 Button Pressed
+2025-04-09 14:00:53.046104 Wait for Count
+2025-04-09 14:01:05.814749 GPIOReader scanning...
+2025-04-09 14:01:05.814749 Button Pressed
+2025-04-09 14:01:57.841874 Wait for Count
+2025-04-09 14:02:10.561722 GPIOReader scanning...
+2025-04-09 14:02:10.561722 Button Pressed
+2025-04-09 14:03:02.065853 Wait for Count
+2025-04-09 14:03:14.812672 GPIOReader scanning...
+2025-04-09 14:03:14.812672 Button Pressed
+2025-04-09 14:04:06.393017 Wait for Count
+2025-04-09 14:04:14.857551 GPIOReader scanning...
+2025-04-09 14:04:14.857551 Button Pressed
+2025-04-09 14:05:10.876648 Wait for Count
+2025-04-09 14:05:23.677588 GPIOReader scanning...
+2025-04-09 14:05:23.677588 Button Pressed
+2025-04-09 14:06:14.909617 Wait for Count
+2025-04-09 14:06:27.658929 GPIOReader scanning...
+2025-04-09 14:06:27.658929 Button Pressed
+2025-04-09 14:07:19.193565 Wait for Count
+2025-04-09 14:07:31.984427 GPIOReader scanning...
+2025-04-09 14:07:31.984427 Button Pressed
+2025-04-09 14:08:22.911666 Wait for Count
+2025-04-09 14:08:35.614406 GPIOReader scanning...
+2025-04-09 14:08:35.614406 Button Pressed
+2025-04-09 14:09:26.851401 Wait for Count
+2025-04-09 14:09:35.417211 GPIOReader scanning...
+2025-04-09 14:09:35.417211 Button Pressed
+2025-04-09 14:10:30.770419 Wait for Count
+2025-04-09 14:10:43.490107 GPIOReader scanning...
+2025-04-09 14:10:43.490107 Button Pressed
+2025-04-09 14:11:34.975745 Wait for Count
+2025-04-09 14:11:47.688811 GPIOReader scanning...
+2025-04-09 14:11:47.688811 Button Pressed
+2025-04-09 14:12:38.573743 Wait for Count
+2025-04-09 14:12:51.279681 GPIOReader scanning...
+2025-04-09 14:12:51.279681 Button Pressed
+2025-04-09 14:13:42.490715 Wait for Count
+2025-04-09 14:13:55.209813 GPIOReader scanning...
+2025-04-09 14:13:55.209813 Button Pressed
+2025-04-09 14:14:45.826473 Wait for Count
+2025-04-09 14:14:58.536449 GPIOReader scanning...
+2025-04-09 14:14:58.536449 Button Pressed
+2025-04-09 14:15:48.910244 Wait for Count
+2025-04-09 14:16:01.598361 GPIOReader scanning...
+2025-04-09 14:16:01.598361 Button Pressed
+2025-04-09 14:16:52.163853 Wait for Count
+2025-04-09 14:17:04.876862 GPIOReader scanning...
+2025-04-09 14:17:04.876862 Button Pressed
+2025-04-09 14:17:56.047709 Wait for Count
+2025-04-09 14:18:08.813706 GPIOReader scanning...
+2025-04-09 14:18:08.813706 Button Pressed
+2025-04-09 14:18:59.544269 Wait for Count
+2025-04-09 14:19:12.286802 GPIOReader scanning...
+2025-04-09 14:19:12.286802 Button Pressed
+2025-04-09 14:20:03.370330 Wait for Count
+2025-04-09 14:20:11.886694 GPIOReader scanning...
+2025-04-09 14:20:11.886694 Button Pressed
+2025-04-09 14:21:08.116910 Wait for Count
+2025-04-09 14:21:20.836328 GPIOReader scanning...
+2025-04-09 14:21:20.836328 Button Pressed
+2025-04-09 14:22:13.311628 Wait for Count
+2025-04-09 14:22:26.072599 GPIOReader scanning...
+2025-04-09 14:22:26.072599 Button Pressed
+2025-04-09 14:23:17.865199 Wait for Count
+2025-04-09 14:23:30.587926 GPIOReader scanning...
+2025-04-09 14:23:30.587926 Button Pressed
+2025-04-09 14:24:22.478140 Wait for Count
+2025-04-09 14:24:35.199725 GPIOReader scanning...
+2025-04-09 14:24:35.199725 Button Pressed
+2025-04-09 14:25:27.347011 Wait for Count
+2025-04-09 14:25:40.190520 GPIOReader scanning...
+2025-04-09 14:25:40.190520 Button Pressed
+2025-04-09 14:26:32.205156 Wait for Count
+2025-04-09 14:26:44.922336 GPIOReader scanning...
+2025-04-09 14:26:44.922336 Button Pressed
+2025-04-09 14:27:36.725298 Wait for Count
+2025-04-09 14:27:49.442813 GPIOReader scanning...
+2025-04-09 14:27:49.442813 Button Pressed
+2025-04-09 14:28:41.776373 Wait for Count
+2025-04-09 14:28:54.499624 GPIOReader scanning...
+2025-04-09 14:28:54.499624 Button Pressed
+2025-04-09 14:29:46.946900 Wait for Count
+2025-04-09 14:29:59.667961 GPIOReader scanning...
+2025-04-09 14:29:59.667961 Button Pressed
+2025-04-09 14:30:52.223383 Wait for Count
+2025-04-09 14:31:00.805829 GPIOReader scanning...
+2025-04-09 14:31:00.805829 Button Pressed
+2025-04-09 14:31:57.385520 Wait for Count
+2025-04-09 14:32:10.132856 GPIOReader scanning...
+2025-04-09 14:32:10.132856 Button Pressed
+2025-04-09 14:33:02.640021 Wait for Count
+2025-04-09 14:33:15.360675 GPIOReader scanning...
+2025-04-09 14:33:15.360675 Button Pressed
+2025-04-09 14:34:07.625044 Wait for Count
+2025-04-09 14:34:20.369703 GPIOReader scanning...
+2025-04-09 14:34:20.369703 Button Pressed
+2025-04-09 14:35:12.466000 Wait for Count
+2025-04-09 14:35:25.216848 GPIOReader scanning...
+2025-04-09 14:35:25.216848 Button Pressed
+2025-04-09 14:36:17.179017 Wait for Count
+2025-04-09 14:36:29.901817 GPIOReader scanning...
+2025-04-09 14:36:29.901817 Button Pressed
+2025-04-09 14:37:21.703285 Wait for Count
+2025-04-09 14:37:34.446615 GPIOReader scanning...
+2025-04-09 14:37:34.446615 Button Pressed
+2025-04-09 14:38:26.480752 Wait for Count
+2025-04-09 14:38:39.190931 GPIOReader scanning...
+2025-04-09 14:38:39.190931 Button Pressed
+2025-04-09 14:39:31.186755 Wait for Count
+2025-04-09 14:39:43.933117 GPIOReader scanning...
+2025-04-09 14:39:43.933117 Button Pressed
+2025-04-09 14:40:35.741062 Wait for Count
+2025-04-09 14:40:48.434880 GPIOReader scanning...
+2025-04-09 14:40:48.434880 Button Pressed
+2025-04-09 14:41:40.137635 Wait for Count
+2025-04-09 14:41:52.897959 GPIOReader scanning...
+2025-04-09 14:41:52.897959 Button Pressed
+2025-04-09 14:42:44.554953 Wait for Count
+2025-04-09 14:42:57.267887 GPIOReader scanning...
+2025-04-09 14:42:57.267887 Button Pressed
+2025-04-09 14:43:49.204123 Wait for Count
+2025-04-09 14:44:01.941322 GPIOReader scanning...
+2025-04-09 14:44:01.941322 Button Pressed
+2025-04-09 14:44:53.804608 Wait for Count
+2025-04-09 14:45:06.602888 GPIOReader scanning...
+2025-04-09 14:45:06.602888 Button Pressed
+2025-04-09 14:45:58.186577 Wait for Count
+2025-04-09 14:46:10.905526 GPIOReader scanning...
+2025-04-09 14:46:10.905526 Button Pressed
+2025-04-09 14:47:02.854658 Wait for Count
+2025-04-09 14:47:15.571158 GPIOReader scanning...
+2025-04-09 14:47:15.571158 Button Pressed
+2025-04-09 14:48:07.274111 Wait for Count
+2025-04-09 14:48:15.727917 GPIOReader scanning...
+2025-04-09 14:48:15.727917 Button Pressed
+2025-04-09 14:49:11.221801 Wait for Count
+2025-04-09 14:49:23.935229 GPIOReader scanning...
+2025-04-09 14:49:23.935229 Button Pressed
+2025-04-09 14:50:15.137153 Wait for Count
+2025-04-09 14:50:27.857060 GPIOReader scanning...
+2025-04-09 14:50:27.857060 Button Pressed
+2025-04-09 14:51:18.900409 Wait for Count
+2025-04-09 14:51:31.614958 GPIOReader scanning...
+2025-04-09 14:51:31.614958 Button Pressed
+2025-04-09 14:52:23.115926 Wait for Count
+2025-04-09 14:52:35.817534 GPIOReader scanning...
+2025-04-09 14:52:35.817534 Button Pressed
+2025-04-09 14:53:26.840717 Wait for Count
+2025-04-09 14:53:39.704967 GPIOReader scanning...
+2025-04-09 14:53:39.704967 Button Pressed
+2025-04-09 14:54:30.684543 Wait for Count
+2025-04-09 14:54:43.395929 GPIOReader scanning...
+2025-04-09 14:54:43.395929 Button Pressed
+2025-04-09 14:55:34.345927 Wait for Count
+2025-04-09 14:55:47.142591 GPIOReader scanning...
+2025-04-09 14:55:47.142591 Button Pressed
+2025-04-09 14:56:38.018363 Wait for Count
+2025-04-09 14:56:50.771153 GPIOReader scanning...
+2025-04-09 14:56:50.771153 Button Pressed
+2025-04-09 14:57:41.230555 Wait for Count
+2025-04-09 14:57:54.004105 GPIOReader scanning...
+2025-04-09 14:57:54.004105 Button Pressed
+2025-04-09 14:58:45.463116 Wait for Count
+2025-04-09 14:58:58.175069 GPIOReader scanning...
+2025-04-09 14:58:58.175069 Button Pressed
+2025-04-09 14:59:49.109317 Wait for Count
+2025-04-09 14:59:57.642961 GPIOReader scanning...
+2025-04-09 14:59:57.642961 Button Pressed
+2025-04-09 15:00:52.793173 Wait for Count
+2025-04-09 15:01:05.514246 GPIOReader scanning...
+2025-04-09 15:01:05.514246 Button Pressed
+2025-04-09 15:01:55.716824 Wait for Count
+2025-04-09 15:02:08.527569 GPIOReader scanning...
+2025-04-09 15:02:08.527569 Button Pressed
+2025-04-09 15:02:58.676629 Wait for Count
+2025-04-09 15:03:11.396320 GPIOReader scanning...
+2025-04-09 15:03:11.396320 Button Pressed
+2025-04-09 15:04:01.950758 Wait for Count
+2025-04-09 15:04:14.656564 GPIOReader scanning...
+2025-04-09 15:04:14.656564 Button Pressed
+2025-04-09 15:05:05.448132 Wait for Count
+2025-04-09 15:05:13.954922 GPIOReader scanning...
+2025-04-09 15:05:13.954922 Button Pressed
+2025-04-09 15:06:08.525129 Wait for Count
+2025-04-09 15:06:21.251323 GPIOReader scanning...
+2025-04-09 15:06:21.251323 Button Pressed
+2025-04-09 15:07:11.578019 Wait for Count
+2025-04-09 15:07:24.291706 GPIOReader scanning...
+2025-04-09 15:07:24.291706 Button Pressed
+2025-04-09 15:08:15.042318 Wait for Count
+2025-04-09 15:08:27.750149 GPIOReader scanning...
+2025-04-09 15:08:27.750149 Button Pressed
+2025-04-09 15:09:18.551040 Wait for Count
+2025-04-09 15:09:31.266955 GPIOReader scanning...
+2025-04-09 15:09:31.266955 Button Pressed
+2025-04-09 15:10:21.769240 Wait for Count
+2025-04-09 15:10:30.320223 GPIOReader scanning...
+2025-04-09 15:10:30.320223 Button Pressed
+2025-04-09 15:11:24.360763 Wait for Count
+2025-04-09 15:11:37.069835 GPIOReader scanning...
+2025-04-09 15:11:37.069835 Button Pressed
+2025-04-09 15:12:26.680138 Wait for Count
+2025-04-09 15:12:39.405537 GPIOReader scanning...
+2025-04-09 15:12:39.405537 Button Pressed
+2025-04-09 15:13:29.395585 Wait for Count
+2025-04-09 15:13:42.116008 GPIOReader scanning...
+2025-04-09 15:13:42.116008 Button Pressed
+2025-04-09 15:14:32.086766 Wait for Count
+2025-04-09 15:14:44.878312 GPIOReader scanning...
+2025-04-09 15:14:44.878312 Button Pressed
+2025-04-09 15:15:34.694495 Wait for Count
+2025-04-09 15:15:47.446396 GPIOReader scanning...
+2025-04-09 15:15:47.446396 Button Pressed
+2025-04-09 15:16:37.321475 Wait for Count
+2025-04-09 15:16:50.037037 GPIOReader scanning...
+2025-04-09 15:16:50.037037 Button Pressed
+2025-04-09 15:17:39.906477 Wait for Count
+2025-04-09 15:17:52.613302 GPIOReader scanning...
+2025-04-09 15:17:52.613302 Button Pressed
+2025-04-09 15:18:42.763417 Wait for Count
+2025-04-09 15:18:51.288403 GPIOReader scanning...
+2025-04-09 15:18:51.288403 Button Pressed
+2025-04-09 15:19:45.486800 Wait for Count
+2025-04-09 15:19:58.197265 GPIOReader scanning...
+2025-04-09 15:19:58.197265 Button Pressed
+2025-04-09 15:20:48.718267 Wait for Count
+2025-04-09 15:21:01.437598 GPIOReader scanning...
+2025-04-09 15:21:01.437598 Button Pressed
+2025-04-09 15:21:51.474187 Wait for Count
+2025-04-09 15:22:04.308487 GPIOReader scanning...
+2025-04-09 15:22:04.308487 Button Pressed
+2025-04-09 15:22:54.488473 Wait for Count
+2025-04-09 15:23:07.198955 GPIOReader scanning...
+2025-04-09 15:23:07.198955 Button Pressed
+2025-04-09 15:23:57.159319 Wait for Count
+2025-04-09 15:24:09.900816 GPIOReader scanning...
+2025-04-09 15:24:09.900816 Button Pressed
+2025-04-09 15:24:59.689550 Wait for Count
+2025-04-09 15:25:12.413489 GPIOReader scanning...
+2025-04-09 15:25:12.413489 Button Pressed
+2025-04-09 15:26:02.161772 Wait for Count
+2025-04-09 15:26:14.970261 GPIOReader scanning...
+2025-04-09 15:26:14.970261 Button Pressed
+2025-04-09 15:27:04.675249 Wait for Count
+2025-04-09 15:27:17.356257 GPIOReader scanning...
+2025-04-09 15:27:17.356257 Button Pressed
+2025-04-09 15:28:07.175398 Wait for Count
+2025-04-09 15:28:19.892862 GPIOReader scanning...
+2025-04-09 15:28:19.892862 Button Pressed
+2025-04-09 15:29:09.658540 Wait for Count
+2025-04-09 15:29:22.378707 GPIOReader scanning...
+2025-04-09 15:29:22.378707 Button Pressed
+2025-04-09 15:30:12.233056 Wait for Count
+2025-04-09 15:30:24.992130 GPIOReader scanning...
+2025-04-09 15:30:24.992130 Button Pressed
+2025-04-09 15:31:14.739846 Wait for Count
+2025-04-09 15:31:23.251703 GPIOReader scanning...
+2025-04-09 15:31:23.251703 Button Pressed
+2025-04-09 15:32:17.002634 Wait for Count
+2025-04-09 15:32:29.735889 GPIOReader scanning...
+2025-04-09 15:32:29.735889 Button Pressed
+2025-04-09 15:33:19.682188 Wait for Count
+2025-04-09 15:33:32.393119 GPIOReader scanning...
+2025-04-09 15:33:32.393119 Button Pressed
+2025-04-09 15:34:22.040387 Wait for Count
+2025-04-09 15:34:34.758930 GPIOReader scanning...
+2025-04-09 15:34:34.758930 Button Pressed
+2025-04-09 15:35:24.242682 Wait for Count
+2025-04-09 15:35:36.973065 GPIOReader scanning...
+2025-04-09 15:35:36.973065 Button Pressed
+2025-04-09 15:36:26.199590 Wait for Count
+2025-04-09 15:36:39.000121 GPIOReader scanning...
+2025-04-09 15:36:39.000121 Button Pressed
+2025-04-09 15:37:28.036581 Wait for Count
+2025-04-09 15:37:40.822165 GPIOReader scanning...
+2025-04-09 15:37:40.822165 Button Pressed
+2025-04-09 15:38:30.531876 Wait for Count
+2025-04-09 15:38:43.209449 GPIOReader scanning...
+2025-04-09 15:38:43.209449 Button Pressed
+2025-04-09 15:39:32.855515 Wait for Count
+2025-04-09 15:39:45.561495 GPIOReader scanning...
+2025-04-09 15:39:45.561495 Button Pressed
+2025-04-09 15:40:34.802762 Wait for Count
+2025-04-09 15:40:47.508419 GPIOReader scanning...
+2025-04-09 15:40:47.508419 Button Pressed
+2025-04-09 15:41:36.605309 Wait for Count
+2025-04-09 15:41:49.321577 GPIOReader scanning...
+2025-04-09 15:41:49.321577 Button Pressed
+2025-04-09 15:42:38.667923 Wait for Count
+2025-04-09 15:42:51.380028 GPIOReader scanning...
+2025-04-09 15:42:51.380028 Button Pressed
+2025-04-09 15:43:40.649553 Wait for Count
+2025-04-09 15:43:53.354998 GPIOReader scanning...
+2025-04-09 15:43:53.354998 Button Pressed
+2025-04-09 15:44:43.104751 Wait for Count
+2025-04-09 15:44:55.996513 GPIOReader scanning...
+2025-04-09 15:44:55.996513 Button Pressed
+2025-04-10 06:43:58.593261 Wait for Count
+2025-04-10 06:44:11.395223 GPIOReader scanning...
+2025-04-10 06:44:11.395223 Button Pressed
+2025-04-10 06:45:06.996564 Wait for Count
+2025-04-10 06:45:19.708912 GPIOReader scanning...
+2025-04-10 06:45:19.708912 Button Pressed
+2025-04-10 06:46:12.753066 Wait for Count
+2025-04-10 06:46:25.478533 GPIOReader scanning...
+2025-04-10 06:46:25.478533 Button Pressed
+2025-04-10 06:47:16.975088 Wait for Count
+2025-04-10 06:47:29.691095 GPIOReader scanning...
+2025-04-10 06:47:29.691095 Button Pressed
+2025-04-10 06:48:20.473924 Wait for Count
+2025-04-10 06:48:33.192656 GPIOReader scanning...
+2025-04-10 06:48:33.192656 Button Pressed
+2025-04-10 06:49:23.409973 GPIOReader scanning...
+2025-04-10 06:49:23.409973 Button Pressed
+2025-04-10 06:50:25.891820 Wait for Count
+2025-04-10 06:50:38.610371 GPIOReader scanning...
+2025-04-10 06:50:38.610371 Button Pressed
+2025-04-10 06:51:28.015924 Wait for Count
+2025-04-10 06:51:40.776263 GPIOReader scanning...
+2025-04-10 06:51:40.776263 Button Pressed
+2025-04-10 06:52:29.344735 Wait for Count
+2025-04-10 06:52:42.064677 GPIOReader scanning...
+2025-04-10 06:52:42.064677 Button Pressed
+2025-04-10 06:53:30.740802 Wait for Count
+2025-04-10 06:53:43.462819 GPIOReader scanning...
+2025-04-10 06:53:43.462819 Button Pressed
+2025-04-10 06:54:32.866807 Wait for Count
+2025-04-10 06:54:45.578398 GPIOReader scanning...
+2025-04-10 06:54:45.578398 Button Pressed
+2025-04-10 06:55:34.267900 Wait for Count
+2025-04-10 06:55:46.987047 GPIOReader scanning...
+2025-04-10 06:55:46.987047 Button Pressed
+2025-04-10 06:56:35.042597 Wait for Count
+2025-04-10 06:56:47.717619 GPIOReader scanning...
+2025-04-10 06:56:47.717619 Button Pressed
+2025-04-10 06:57:36.145038 Wait for Count
+2025-04-10 06:57:44.665614 GPIOReader scanning...
+2025-04-10 06:57:44.665614 Button Pressed
+2025-04-10 06:58:36.436660 Wait for Count
+2025-04-10 06:58:49.139016 GPIOReader scanning...
+2025-04-10 06:58:49.139016 Button Pressed
+2025-04-10 06:59:36.791830 Wait for Count
+2025-04-10 06:59:49.511253 GPIOReader scanning...
+2025-04-10 06:59:49.511253 Button Pressed
+2025-04-10 07:00:37.347315 Wait for Count
+2025-04-10 07:00:45.804648 GPIOReader scanning...
+2025-04-10 07:00:45.804648 Button Pressed
+2025-04-10 07:01:37.491558 Wait for Count
+2025-04-10 07:01:50.284477 GPIOReader scanning...
+2025-04-10 07:01:50.284477 Button Pressed
+2025-04-10 07:02:37.279428 Wait for Count
+2025-04-10 07:02:49.983019 GPIOReader scanning...
+2025-04-10 07:02:49.983019 Button Pressed
+2025-04-10 07:03:37.545215 Wait for Count
+2025-04-10 07:03:50.316385 GPIOReader scanning...
+2025-04-10 07:03:50.316385 Button Pressed
+2025-04-10 07:04:37.328094 Wait for Count
+2025-04-10 07:04:50.047163 GPIOReader scanning...
+2025-04-10 07:04:50.047163 Button Pressed
+2025-04-10 07:05:37.088319 Wait for Count
+2025-04-10 07:05:49.799873 GPIOReader scanning...
+2025-04-10 07:05:49.799873 Button Pressed
+2025-04-10 07:06:36.520082 Wait for Count
+2025-04-10 07:06:49.236680 GPIOReader scanning...
+2025-04-10 07:06:49.236680 Button Pressed
+2025-04-10 07:07:36.038239 Wait for Count
+2025-04-10 07:07:44.534020 GPIOReader scanning...
+2025-04-10 07:07:44.534020 Button Pressed
+2025-04-10 07:08:35.173036 Wait for Count
+2025-04-10 07:08:47.880517 GPIOReader scanning...
+2025-04-10 07:08:47.880517 Button Pressed
+2025-04-10 07:09:34.074757 Wait for Count
+2025-04-10 07:09:46.783506 GPIOReader scanning...
+2025-04-10 07:09:46.783506 Button Pressed
+2025-04-10 07:10:32.990554 GPIOReader scanning...
+2025-04-10 07:10:32.990554 Button Pressed
+2025-04-10 07:11:31.762710 Wait for Count
+2025-04-10 07:11:44.481467 GPIOReader scanning...
+2025-04-10 07:11:44.481467 Button Pressed
+2025-04-10 07:12:30.741054 Wait for Count
+2025-04-10 07:12:43.456800 GPIOReader scanning...
+2025-04-10 07:12:43.456800 Button Pressed
+2025-04-10 07:13:29.295952 GPIOReader scanning...
+2025-04-10 07:13:29.295952 Button Pressed
+2025-04-10 07:14:27.614209 Wait for Count
+2025-04-10 07:14:40.368867 GPIOReader scanning...
+2025-04-10 07:14:40.368867 Button Pressed
+2025-04-10 07:15:26.394822 Wait for Count
+2025-04-10 07:15:39.099965 GPIOReader scanning...
+2025-04-10 07:15:39.099965 Button Pressed
+2025-04-10 07:16:25.287816 Wait for Count
+2025-04-10 07:16:38.094588 GPIOReader scanning...
+2025-04-10 07:16:38.094588 Button Pressed
+2025-04-10 07:17:23.999999 Wait for Count
+2025-04-10 07:17:36.749531 GPIOReader scanning...
+2025-04-10 07:17:36.749531 Button Pressed
+2025-04-10 07:18:23.064385 Wait for Count
+2025-04-10 07:18:35.779050 GPIOReader scanning...
+2025-04-10 07:18:35.779050 Button Pressed
+2025-04-10 07:19:21.857916 Wait for Count
+2025-04-10 07:19:34.565121 GPIOReader scanning...
+2025-04-10 07:19:34.565121 Button Pressed
+2025-04-10 07:20:20.340366 Wait for Count
+2025-04-10 07:20:24.596709 Wait for Count
+2025-04-10 07:20:33.098551 GPIOReader scanning...
+2025-04-10 07:20:33.098551 Button Pressed
+2025-04-10 07:21:18.948796 Wait for Count
+2025-04-10 07:21:31.669902 GPIOReader scanning...
+2025-04-10 07:21:31.669902 Button Pressed
+2025-04-10 07:22:17.949646 Wait for Count
+2025-04-10 07:22:30.650214 GPIOReader scanning...
+2025-04-10 07:22:30.650214 Button Pressed
+2025-04-10 07:23:16.874040 Wait for Count
+2025-04-10 07:23:25.328210 GPIOReader scanning...
+2025-04-10 07:23:25.328210 Button Pressed
+2025-04-10 07:24:15.031766 Wait for Count
+2025-04-10 07:24:27.751616 GPIOReader scanning...
+2025-04-10 07:24:27.751616 Button Pressed
+2025-04-10 07:25:13.710596 Wait for Count
+2025-04-10 07:25:26.437964 GPIOReader scanning...
+2025-04-10 07:25:26.437964 Button Pressed
+2025-04-10 07:26:12.128665 Wait for Count
+2025-04-10 07:26:24.829036 GPIOReader scanning...
+2025-04-10 07:26:24.829036 Button Pressed
+2025-04-10 07:27:10.430826 Wait for Count
+2025-04-10 07:27:23.270603 GPIOReader scanning...
+2025-04-10 07:27:23.270603 Button Pressed
+2025-04-10 07:28:08.582551 GPIOReader scanning...
+2025-04-10 07:28:08.582551 Button Pressed
+2025-04-10 07:29:07.388394 Wait for Count
+2025-04-10 07:29:20.166783 GPIOReader scanning...
+2025-04-10 07:29:20.166783 Button Pressed
+2025-04-10 07:30:05.728895 Wait for Count
+2025-04-10 07:30:18.564225 GPIOReader scanning...
+2025-04-10 07:30:18.564225 Button Pressed
+2025-04-10 07:31:04.080981 Wait for Count
+2025-04-10 07:31:16.814254 GPIOReader scanning...
+2025-04-10 07:31:16.814254 Button Pressed
+2025-04-10 07:32:02.558211 Wait for Count
+2025-04-10 07:32:15.345149 GPIOReader scanning...
+2025-04-10 07:32:15.345149 Button Pressed
+2025-04-10 07:33:00.931448 Wait for Count
+2025-04-10 07:33:13.647553 GPIOReader scanning...
+2025-04-10 07:33:13.647553 Button Pressed
+2025-04-10 07:33:58.965504 Wait for Count
+2025-04-10 07:34:11.659661 GPIOReader scanning...
+2025-04-10 07:34:11.659661 Button Pressed
+2025-04-10 07:34:56.860736 Wait for Count
+2025-04-10 07:35:09.602304 GPIOReader scanning...
+2025-04-10 07:35:09.602304 Button Pressed
+2025-04-10 07:35:55.224596 Wait for Count
+2025-04-10 07:36:07.985501 GPIOReader scanning...
+2025-04-10 07:36:07.985501 Button Pressed
+2025-04-10 07:36:53.588101 Wait for Count
+2025-04-10 07:37:06.313699 GPIOReader scanning...
+2025-04-10 07:37:06.313699 Button Pressed
+2025-04-10 07:37:52.016878 Wait for Count
+2025-04-10 07:38:00.753098 GPIOReader scanning...
+2025-04-10 07:38:00.753098 Button Pressed
+2025-04-10 07:38:50.270131 Wait for Count
+2025-04-10 07:39:02.999528 GPIOReader scanning...
+2025-04-10 07:39:02.999528 Button Pressed
+2025-04-10 07:39:48.314957 Wait for Count
+2025-04-10 07:40:01.040059 GPIOReader scanning...
+2025-04-10 07:40:01.040059 Button Pressed
+2025-04-10 07:40:46.299304 Wait for Count
+2025-04-10 07:40:59.028457 GPIOReader scanning...
+2025-04-10 07:40:59.028457 Button Pressed
+2025-04-10 07:41:44.646187 Wait for Count
+2025-04-10 07:41:57.363861 GPIOReader scanning...
+2025-04-10 07:41:57.363861 Button Pressed
+2025-04-10 07:42:43.350844 Wait for Count
+2025-04-10 07:42:56.077326 GPIOReader scanning...
+2025-04-10 07:42:56.077326 Button Pressed
+2025-04-10 07:43:41.686557 Wait for Count
+2025-04-10 07:43:50.174016 GPIOReader scanning...
+2025-04-10 07:43:50.174016 Button Pressed
+2025-04-10 07:44:40.301263 Wait for Count
+2025-04-10 07:44:53.027511 GPIOReader scanning...
+2025-04-10 07:44:53.027511 Button Pressed
+2025-04-10 07:45:38.482654 Wait for Count
+2025-04-10 07:45:51.207221 GPIOReader scanning...
+2025-04-10 07:45:51.207221 Button Pressed
+2025-04-10 07:46:36.957969 Wait for Count
+2025-04-10 07:46:49.685356 GPIOReader scanning...
+2025-04-10 07:46:49.685356 Button Pressed
+2025-04-10 07:47:35.381037 Wait for Count
+2025-04-10 07:47:43.907709 GPIOReader scanning...
+2025-04-10 07:47:43.907709 Button Pressed
+2025-04-10 07:48:33.832977 Wait for Count
+2025-04-10 07:48:46.559046 GPIOReader scanning...
+2025-04-10 07:48:46.559046 Button Pressed
+2025-04-10 07:49:32.058949 Wait for Count
+2025-04-10 07:49:44.762175 GPIOReader scanning...
+2025-04-10 07:49:44.762175 Button Pressed
+2025-04-10 07:50:30.354473 Wait for Count
+2025-04-10 07:50:43.096668 GPIOReader scanning...
+2025-04-10 07:50:43.096668 Button Pressed
+2025-04-10 07:51:28.902891 Wait for Count
+2025-04-10 07:51:41.634861 GPIOReader scanning...
+2025-04-10 07:51:41.634861 Button Pressed
+2025-04-10 07:52:27.293192 Wait for Count
+2025-04-10 07:52:35.799309 GPIOReader scanning...
+2025-04-10 07:52:35.799309 Button Pressed
+2025-04-10 07:53:25.619075 Wait for Count
+2025-04-10 07:53:38.351882 GPIOReader scanning...
+2025-04-10 07:53:38.351882 Button Pressed
+2025-04-10 07:54:24.103431 Wait for Count
+2025-04-10 07:54:36.841685 GPIOReader scanning...
+2025-04-10 07:54:36.841685 Button Pressed
+2025-04-10 07:55:22.133821 Wait for Count
+2025-04-10 07:55:34.880313 GPIOReader scanning...
+2025-04-10 07:55:34.880313 Button Pressed
+2025-04-10 07:56:20.110989 Wait for Count
+2025-04-10 07:56:32.838311 GPIOReader scanning...
+2025-04-10 07:56:32.838311 Button Pressed
+2025-04-10 07:57:18.155788 Wait for Count
+2025-04-10 07:57:30.911918 GPIOReader scanning...
+2025-04-10 07:57:30.911918 Button Pressed
+2025-04-10 07:58:16.374916 Wait for Count
+2025-04-10 07:58:24.899605 GPIOReader scanning...
+2025-04-10 07:58:24.899605 Button Pressed
+2025-04-10 07:59:15.011438 Wait for Count
+2025-04-10 07:59:27.729130 GPIOReader scanning...
+2025-04-10 07:59:27.729130 Button Pressed
+2025-04-10 08:00:13.447550 Wait for Count
+2025-04-10 08:00:26.162153 GPIOReader scanning...
+2025-04-10 08:00:26.162153 Button Pressed
+2025-04-10 08:01:11.746830 Wait for Count
+2025-04-10 08:01:24.462274 GPIOReader scanning...
+2025-04-10 08:01:24.462274 Button Pressed
+2025-04-10 08:02:10.380887 Wait for Count
+2025-04-10 08:02:18.988487 GPIOReader scanning...
+2025-04-10 08:02:18.988487 Button Pressed
+2025-04-10 08:03:08.745473 Wait for Count
+2025-04-10 08:03:21.463833 GPIOReader scanning...
+2025-04-10 08:03:21.463833 Button Pressed
+2025-04-10 08:04:06.984537 Wait for Count
+2025-04-10 08:04:19.742277 GPIOReader scanning...
+2025-04-10 08:04:19.742277 Button Pressed
+2025-04-10 08:05:05.228241 Wait for Count
+2025-04-10 08:05:17.945775 GPIOReader scanning...
+2025-04-10 08:05:17.945775 Button Pressed
+2025-04-10 08:06:03.529778 Wait for Count
+2025-04-10 08:06:16.337876 GPIOReader scanning...
+2025-04-10 08:06:16.337876 Button Pressed
+2025-04-10 08:07:01.614412 Wait for Count
+2025-04-10 08:07:14.403743 GPIOReader scanning...
+2025-04-10 08:07:14.403743 Button Pressed
+2025-04-10 08:08:00.009834 GPIOReader scanning...
+2025-04-10 08:08:00.009834 Button Pressed
+2025-04-10 08:08:58.151575 Wait for Count
+2025-04-10 08:09:10.909728 GPIOReader scanning...
+2025-04-10 08:09:10.909728 Button Pressed
+2025-04-10 08:09:56.107306 Wait for Count
+2025-04-10 08:10:08.827772 GPIOReader scanning...
+2025-04-10 08:10:08.827772 Button Pressed
+2025-04-10 08:10:54.212553 Wait for Count
+2025-04-10 08:11:06.940401 GPIOReader scanning...
+2025-04-10 08:11:06.940401 Button Pressed
+2025-04-10 08:11:52.254773 Wait for Count
+2025-04-10 08:12:04.966713 GPIOReader scanning...
+2025-04-10 08:12:04.966713 Button Pressed
+2025-04-10 08:12:50.258317 Wait for Count
+2025-04-10 08:13:02.978887 GPIOReader scanning...
+2025-04-10 08:13:02.978887 Button Pressed
+2025-04-10 08:13:48.201737 Wait for Count
+2025-04-10 08:14:00.965755 GPIOReader scanning...
+2025-04-10 08:14:00.965755 Button Pressed
+2025-04-10 08:14:45.978176 Wait for Count
+2025-04-10 08:14:58.797257 GPIOReader scanning...
+2025-04-10 08:14:58.797257 Button Pressed
+2025-04-10 08:15:44.344248 Wait for Count
+2025-04-10 08:15:57.089501 GPIOReader scanning...
+2025-04-10 08:15:57.089501 Button Pressed
+2025-04-10 08:16:42.892810 Wait for Count
+2025-04-10 08:16:55.618856 GPIOReader scanning...
+2025-04-10 08:16:55.618856 Button Pressed
+2025-04-10 08:17:41.107068 Wait for Count
+2025-04-10 08:17:53.849652 GPIOReader scanning...
+2025-04-10 08:17:53.849652 Button Pressed
+2025-04-10 08:18:39.321966 Wait for Count
+2025-04-10 08:18:52.036602 GPIOReader scanning...
+2025-04-10 08:18:52.036602 Button Pressed
+2025-04-10 08:19:37.558553 Wait for Count
+2025-04-10 08:19:50.331583 GPIOReader scanning...
+2025-04-10 08:19:50.331583 Button Pressed
+2025-04-10 08:20:35.875374 Wait for Count
+2025-04-10 08:20:48.587691 GPIOReader scanning...
+2025-04-10 08:20:48.587691 Button Pressed
+2025-04-10 08:21:34.033785 Wait for Count
+2025-04-10 08:21:46.863797 GPIOReader scanning...
+2025-04-10 08:21:46.863797 Button Pressed
+2025-04-10 08:22:32.210973 Wait for Count
+2025-04-10 08:22:44.927059 GPIOReader scanning...
+2025-04-10 08:22:44.927059 Button Pressed
+2025-04-10 08:23:29.716677 Wait for Count
+2025-04-10 08:23:42.439255 GPIOReader scanning...
+2025-04-10 08:23:42.439255 Button Pressed
+2025-04-10 08:24:27.759609 Wait for Count
+2025-04-10 08:24:40.484833 GPIOReader scanning...
+2025-04-10 08:24:40.484833 Button Pressed
+2025-04-10 08:25:25.416395 Wait for Count
+2025-04-10 08:25:38.143880 GPIOReader scanning...
+2025-04-10 08:25:38.143880 Button Pressed
+2025-04-10 08:26:23.108130 Wait for Count
+2025-04-10 08:26:35.902149 GPIOReader scanning...
+2025-04-10 08:26:35.902149 Button Pressed
+2025-04-10 08:27:20.715457 Wait for Count
+2025-04-10 08:27:33.433098 GPIOReader scanning...
+2025-04-10 08:27:33.433098 Button Pressed
+2025-04-10 08:28:18.540388 Wait for Count
+2025-04-10 08:28:31.259945 GPIOReader scanning...
+2025-04-10 08:28:31.259945 Button Pressed
+2025-04-10 08:29:16.737442 Wait for Count
+2025-04-10 08:29:29.506709 GPIOReader scanning...
+2025-04-10 08:29:29.506709 Button Pressed
+2025-04-10 08:30:14.818596 Wait for Count
+2025-04-10 08:30:23.350052 GPIOReader scanning...
+2025-04-10 08:30:23.350052 Button Pressed
+2025-04-10 08:31:13.343529 Wait for Count
+2025-04-10 08:31:26.049806 GPIOReader scanning...
+2025-04-10 08:31:26.049806 Button Pressed
+2025-04-10 08:32:11.136748 Wait for Count
+2025-04-10 08:32:23.871885 GPIOReader scanning...
+2025-04-10 08:32:23.871885 Button Pressed
+2025-04-10 08:33:09.106417 Wait for Count
+2025-04-10 08:33:21.865918 GPIOReader scanning...
+2025-04-10 08:33:21.865918 Button Pressed
+2025-04-10 08:34:07.211408 Wait for Count
+2025-04-10 08:34:19.936274 GPIOReader scanning...
+2025-04-10 08:34:19.936274 Button Pressed
+2025-04-10 08:35:05.194862 Wait for Count
+2025-04-10 08:35:18.112294 GPIOReader scanning...
+2025-04-10 08:35:18.112294 Button Pressed
+2025-04-10 08:36:03.191022 Wait for Count
+2025-04-10 08:36:15.923522 GPIOReader scanning...
+2025-04-10 08:36:15.923522 Button Pressed
+2025-04-10 08:37:01.200494 Wait for Count
+2025-04-10 08:37:13.981778 GPIOReader scanning...
+2025-04-10 08:37:13.981778 Button Pressed
+2025-04-10 08:37:59.186835 Wait for Count
+2025-04-10 08:38:12.031918 GPIOReader scanning...
+2025-04-10 08:38:12.031918 Button Pressed
+2025-04-10 08:38:57.267785 Wait for Count
+2025-04-10 08:39:05.813714 GPIOReader scanning...
+2025-04-10 08:39:05.813714 Button Pressed
+2025-04-10 08:39:55.225818 Wait for Count
+2025-04-10 08:40:03.907128 GPIOReader scanning...
+2025-04-10 08:40:03.907128 Button Pressed
+2025-04-10 08:40:52.929536 Wait for Count
+2025-04-10 08:41:05.775771 GPIOReader scanning...
+2025-04-10 08:41:05.775771 Button Pressed
+2025-04-10 08:41:50.822369 Wait for Count
+2025-04-10 08:42:03.532944 GPIOReader scanning...
+2025-04-10 08:42:03.532944 Button Pressed
+2025-04-10 08:42:48.673291 Wait for Count
+2025-04-10 08:43:01.378571 GPIOReader scanning...
+2025-04-10 08:43:01.378571 Button Pressed
+2025-04-10 08:43:46.705334 Wait for Count
+2025-04-10 08:43:59.422219 GPIOReader scanning...
+2025-04-10 08:43:59.422219 Button Pressed
+2025-04-10 08:44:44.513157 Wait for Count
+2025-04-10 08:44:57.227921 GPIOReader scanning...
+2025-04-10 08:44:57.227921 Button Pressed
+2025-04-10 08:45:42.374281 Wait for Count
+2025-04-10 08:45:55.091004 GPIOReader scanning...
+2025-04-10 08:45:55.091004 Button Pressed
+2025-04-10 08:46:40.420871 Wait for Count
+2025-04-10 08:46:53.132781 GPIOReader scanning...
+2025-04-10 08:46:53.132781 Button Pressed
+2025-04-10 08:47:38.608391 Wait for Count
+2025-04-10 08:47:51.393028 GPIOReader scanning...
+2025-04-10 08:47:51.393028 Button Pressed
+2025-04-10 08:48:36.581869 Wait for Count
+2025-04-10 08:48:45.069795 GPIOReader scanning...
+2025-04-10 08:48:45.069795 Button Pressed
+2025-04-10 08:49:34.797674 Wait for Count
+2025-04-10 08:49:47.513325 GPIOReader scanning...
+2025-04-10 08:49:47.513325 Button Pressed
+2025-04-10 09:33:26.961670 Wait for Count
+2025-04-10 09:33:35.412725 GPIOReader scanning...
+2025-04-10 09:33:35.412725 Button Pressed
+2025-04-10 09:34:29.470244 Wait for Count
+2025-04-10 09:34:42.185616 GPIOReader scanning...
+2025-04-10 09:34:42.185616 Button Pressed
+2025-04-10 09:35:31.046217 Wait for Count
+2025-04-10 09:35:43.760830 GPIOReader scanning...
+2025-04-10 09:35:43.760830 Button Pressed
+2025-04-10 09:36:31.846514 GPIOReader scanning...
+2025-04-10 09:36:31.846514 Button Pressed
+2025-04-10 09:37:32.501540 Wait for Count
+2025-04-10 09:37:45.306492 GPIOReader scanning...
+2025-04-10 09:37:45.306492 Button Pressed
+2025-04-10 09:38:33.605368 Wait for Count
+2025-04-10 09:38:46.321017 GPIOReader scanning...
+2025-04-10 09:38:46.321017 Button Pressed
+2025-04-10 09:39:34.359956 Wait for Count
+2025-04-10 09:39:47.077988 GPIOReader scanning...
+2025-04-10 09:39:47.077988 Button Pressed
+2025-04-10 09:40:35.411764 Wait for Count
+2025-04-10 09:40:48.128520 GPIOReader scanning...
+2025-04-10 09:40:48.128520 Button Pressed
+2025-04-10 09:41:35.673883 Wait for Count
+2025-04-10 09:41:44.145120 GPIOReader scanning...
+2025-04-10 09:41:44.145120 Button Pressed
+2025-04-10 09:42:36.318215 Wait for Count
+2025-04-10 09:42:49.064863 GPIOReader scanning...
+2025-04-10 09:42:49.064863 Button Pressed
+2025-04-10 09:43:36.364707 Wait for Count
+2025-04-10 09:43:49.116942 GPIOReader scanning...
+2025-04-10 09:43:49.116942 Button Pressed
+2025-04-10 09:44:36.372992 Wait for Count
+2025-04-10 09:44:49.082425 GPIOReader scanning...
+2025-04-10 09:44:49.082425 Button Pressed
+2025-04-10 09:45:36.219550 Wait for Count
+2025-04-10 09:45:48.936930 GPIOReader scanning...
+2025-04-10 09:45:48.936930 Button Pressed
+2025-04-10 09:46:35.522748 Wait for Count
+2025-04-10 09:46:44.001201 GPIOReader scanning...
+2025-04-10 09:46:44.001201 Button Pressed
+2025-04-10 09:47:35.167863 Wait for Count
+2025-04-10 09:47:47.884772 GPIOReader scanning...
+2025-04-10 09:47:47.884772 Button Pressed
+2025-04-10 09:48:34.387360 Wait for Count
+2025-04-10 09:48:38.639958 Wait for Count
+2025-04-10 09:48:55.564804 GPIOReader scanning...
+2025-04-10 09:48:55.564804 Button Pressed
+2025-04-10 09:49:33.368925 Wait for Count
+2025-04-10 09:49:46.085808 GPIOReader scanning...
+2025-04-10 09:49:46.085808 Button Pressed
+2025-04-10 09:50:32.518074 Wait for Count
+2025-04-10 09:50:45.235369 GPIOReader scanning...
+2025-04-10 09:50:45.235369 Button Pressed
+2025-04-10 09:51:31.866241 Wait for Count
+2025-04-10 09:51:44.581085 GPIOReader scanning...
+2025-04-10 09:51:44.581085 Button Pressed
+2025-04-10 09:52:31.039888 Wait for Count
+2025-04-10 09:52:43.750658 GPIOReader scanning...
+2025-04-10 09:52:43.750658 Button Pressed
+2025-04-10 09:53:30.226965 Wait for Count
+2025-04-10 09:53:42.948094 GPIOReader scanning...
+2025-04-10 09:53:42.948094 Button Pressed
+2025-04-10 09:54:29.536874 Wait for Count
+2025-04-10 09:54:42.285179 GPIOReader scanning...
+2025-04-10 09:54:42.285179 Button Pressed
+2025-04-10 09:55:28.765698 Wait for Count
+2025-04-10 09:55:41.614711 GPIOReader scanning...
+2025-04-10 09:55:41.614711 Button Pressed
+2025-04-10 09:56:27.575517 Wait for Count
+2025-04-10 09:56:40.326478 GPIOReader scanning...
+2025-04-10 09:56:40.326478 Button Pressed
+2025-04-10 09:57:26.492623 Wait for Count
+2025-04-10 09:57:39.208740 GPIOReader scanning...
+2025-04-10 09:57:39.208740 Button Pressed
+2025-04-10 09:58:24.863898 Wait for Count
+2025-04-10 09:58:37.564263 GPIOReader scanning...
+2025-04-10 09:58:37.564263 Button Pressed
+2025-04-10 09:59:23.353099 Wait for Count
+2025-04-10 09:59:31.860986 GPIOReader scanning...
+2025-04-10 09:59:31.860986 Button Pressed
+2025-04-10 10:00:22.070626 Wait for Count
+2025-04-10 10:00:34.780677 GPIOReader scanning...
+2025-04-10 10:00:34.780677 Button Pressed
+2025-04-10 10:01:20.771288 Wait for Count
+2025-04-10 10:01:33.482547 GPIOReader scanning...
+2025-04-10 10:01:33.482547 Button Pressed
+2025-04-10 10:02:19.557783 Wait for Count
+2025-04-10 10:02:32.349822 GPIOReader scanning...
+2025-04-10 10:02:32.349822 Button Pressed
+2025-04-10 10:03:18.168260 Wait for Count
+2025-04-10 10:03:30.884730 GPIOReader scanning...
+2025-04-10 10:03:30.884730 Button Pressed
+2025-04-10 10:04:16.901758 Wait for Count
+2025-04-10 10:04:29.611862 GPIOReader scanning...
+2025-04-10 10:04:29.611862 Button Pressed
+2025-04-10 10:05:15.152947 Wait for Count
+2025-04-10 10:05:27.869330 GPIOReader scanning...
+2025-04-10 10:05:27.869330 Button Pressed
+2025-04-10 10:06:13.858331 Wait for Count
+2025-04-10 10:06:26.621333 GPIOReader scanning...
+2025-04-10 10:06:26.621333 Button Pressed
+2025-04-10 10:07:12.266088 Wait for Count
+2025-04-10 10:07:24.990386 GPIOReader scanning...
+2025-04-10 10:07:24.990386 Button Pressed
+2025-04-10 10:08:10.754619 Wait for Count
+2025-04-10 10:08:23.467966 GPIOReader scanning...
+2025-04-10 10:08:23.467966 Button Pressed
+2025-04-10 10:09:09.263483 Wait for Count
+2025-04-10 10:09:22.011441 GPIOReader scanning...
+2025-04-10 10:09:22.011441 Button Pressed
+2025-04-10 10:10:07.618763 Wait for Count
+2025-04-10 10:10:20.410190 GPIOReader scanning...
+2025-04-10 10:10:20.410190 Button Pressed
+2025-04-10 10:11:05.969120 Wait for Count
+2025-04-10 10:11:14.432148 GPIOReader scanning...
+2025-04-10 10:11:14.432148 Button Pressed
+2025-04-10 10:12:03.874906 Wait for Count
+2025-04-10 10:12:16.555462 GPIOReader scanning...
+2025-04-10 10:12:16.555462 Button Pressed
+2025-04-10 10:13:02.144487 Wait for Count
+2025-04-10 10:13:14.860111 GPIOReader scanning...
+2025-04-10 10:13:14.860111 Button Pressed
+2025-04-10 10:14:00.442389 Wait for Count
+2025-04-10 10:14:13.147794 GPIOReader scanning...
+2025-04-10 10:14:13.147794 Button Pressed
+2025-04-10 10:14:58.676352 Wait for Count
+2025-04-10 10:15:11.391887 GPIOReader scanning...
+2025-04-10 10:15:11.391887 Button Pressed
+2025-04-10 10:15:57.069620 Wait for Count
+2025-04-10 10:16:05.601966 GPIOReader scanning...
+2025-04-10 10:16:05.601966 Button Pressed
+2025-04-10 10:16:55.342099 Wait for Count
+2025-04-10 10:17:08.067366 GPIOReader scanning...
+2025-04-10 10:17:08.067366 Button Pressed
+2025-04-10 10:17:53.722290 Wait for Count
+2025-04-10 10:18:06.448061 GPIOReader scanning...
+2025-04-10 10:18:06.448061 Button Pressed
+2025-04-10 10:18:52.163085 Wait for Count
+2025-04-10 10:19:04.879837 GPIOReader scanning...
+2025-04-10 10:19:04.879837 Button Pressed
+2025-04-10 10:19:50.281377 Wait for Count
+2025-04-10 10:20:02.995190 GPIOReader scanning...
+2025-04-10 10:20:02.995190 Button Pressed
+2025-04-10 10:20:48.470529 Wait for Count
+2025-04-10 10:21:01.218426 GPIOReader scanning...
+2025-04-10 10:21:01.218426 Button Pressed
+2025-04-10 10:21:46.506299 Wait for Count
+2025-04-10 10:21:54.988008 GPIOReader scanning...
+2025-04-10 10:21:54.988008 Button Pressed
+2025-04-10 10:22:44.327463 Wait for Count
+2025-04-10 10:22:52.788256 GPIOReader scanning...
+2025-04-10 10:22:52.788256 Button Pressed
+2025-04-10 10:23:42.196887 Wait for Count
+2025-04-10 10:23:54.909150 GPIOReader scanning...
+2025-04-10 10:23:54.909150 Button Pressed
+2025-04-10 10:24:40.151590 Wait for Count
+2025-04-10 10:24:52.875128 GPIOReader scanning...
+2025-04-10 10:24:52.875128 Button Pressed
+2025-04-10 10:25:38.384990 Wait for Count
+2025-04-10 10:25:51.099156 GPIOReader scanning...
+2025-04-10 10:25:51.099156 Button Pressed
+2025-04-10 10:26:36.191398 Wait for Count
+2025-04-10 10:26:48.907776 GPIOReader scanning...
+2025-04-10 10:26:48.907776 Button Pressed
+2025-04-10 10:27:34.334856 Wait for Count
+2025-04-10 10:27:47.076762 GPIOReader scanning...
+2025-04-10 10:27:47.076762 Button Pressed
+2025-04-10 10:28:32.491265 Wait for Count
+2025-04-10 10:28:45.228825 GPIOReader scanning...
+2025-04-10 10:28:45.228825 Button Pressed
+2025-04-10 10:29:30.338631 Wait for Count
+2025-04-10 10:29:43.125754 GPIOReader scanning...
+2025-04-10 10:29:43.125754 Button Pressed
+2025-04-10 10:30:28.223476 Wait for Count
+2025-04-10 10:30:36.761462 GPIOReader scanning...
+2025-04-10 10:30:36.761462 Button Pressed
+2025-04-10 10:31:26.013943 Wait for Count
+2025-04-10 10:31:38.716613 GPIOReader scanning...
+2025-04-10 10:31:38.716613 Button Pressed
+2025-04-10 10:32:23.490538 Wait for Count
+2025-04-10 10:32:31.945692 GPIOReader scanning...
+2025-04-10 10:32:31.945692 Button Pressed
+2025-04-10 10:33:21.149649 Wait for Count
+2025-04-10 10:33:29.603704 GPIOReader scanning...
+2025-04-10 10:33:29.603704 Button Pressed
+2025-04-10 10:34:19.303902 Wait for Count
+2025-04-10 10:34:32.053352 GPIOReader scanning...
+2025-04-10 10:34:32.053352 Button Pressed
+2025-04-10 10:35:17.182162 Wait for Count
+2025-04-10 10:35:29.894848 GPIOReader scanning...
+2025-04-10 10:35:29.894848 Button Pressed
+2025-04-10 10:36:14.680575 Wait for Count
+2025-04-10 10:36:27.397666 GPIOReader scanning...
+2025-04-10 10:36:27.397666 Button Pressed
+2025-04-10 10:37:12.633559 Wait for Count
+2025-04-10 10:37:25.338406 GPIOReader scanning...
+2025-04-10 10:37:25.338406 Button Pressed
+2025-04-10 10:38:10.694813 Wait for Count
+2025-04-10 10:38:23.419731 GPIOReader scanning...
+2025-04-10 10:38:23.419731 Button Pressed
+2025-04-10 10:39:08.566769 Wait for Count
+2025-04-10 10:39:21.284724 GPIOReader scanning...
+2025-04-10 10:39:21.284724 Button Pressed
+2025-04-10 10:40:06.084735 Wait for Count
+2025-04-10 10:40:18.828944 GPIOReader scanning...
+2025-04-10 10:40:18.828944 Button Pressed
+2025-04-10 10:41:03.525664 Wait for Count
+2025-04-10 10:41:16.247506 GPIOReader scanning...
+2025-04-10 10:41:16.247506 Button Pressed
+2025-04-10 10:42:01.739624 Wait for Count
+2025-04-10 10:42:14.474450 GPIOReader scanning...
+2025-04-10 10:42:14.474450 Button Pressed
+2025-04-10 10:42:59.835370 Wait for Count
+2025-04-10 10:43:08.358947 GPIOReader scanning...
+2025-04-10 10:43:08.358947 Button Pressed
+2025-04-10 10:43:57.528800 Wait for Count
+2025-04-10 10:44:06.032448 GPIOReader scanning...
+2025-04-10 10:44:06.032448 Button Pressed
+2025-04-10 10:44:55.141312 Wait for Count
+2025-04-10 10:45:07.875219 GPIOReader scanning...
+2025-04-10 10:45:07.875219 Button Pressed
+2025-04-10 10:45:52.600079 GPIOReader scanning...
+2025-04-10 10:45:52.600079 Button Pressed
+2025-04-10 10:46:50.004695 Wait for Count
+2025-04-10 10:47:02.945284 GPIOReader scanning...
+2025-04-10 10:47:02.945284 Button Pressed
+2025-04-10 10:47:47.499639 Wait for Count
+2025-04-10 10:47:56.074867 GPIOReader scanning...
+2025-04-10 10:47:56.074867 Button Pressed
+2025-04-10 10:48:45.162330 Wait for Count
+2025-04-10 10:48:57.930272 GPIOReader scanning...
+2025-04-10 10:48:57.930272 Button Pressed
+2025-04-10 10:49:42.529229 Wait for Count
+2025-04-10 10:49:55.587526 GPIOReader scanning...
+2025-04-10 10:49:55.587526 Button Pressed
+2025-04-10 10:50:39.909728 Wait for Count
+2025-04-10 10:50:52.617621 GPIOReader scanning...
+2025-04-10 10:50:52.617621 Button Pressed
+2025-04-10 10:51:37.216322 Wait for Count
+2025-04-10 10:51:49.941837 GPIOReader scanning...
+2025-04-10 10:51:49.941837 Button Pressed
+2025-04-10 10:52:34.893571 Wait for Count
+2025-04-10 10:52:47.706349 GPIOReader scanning...
+2025-04-10 10:52:47.706349 Button Pressed
+2025-04-10 10:53:32.355465 Wait for Count
+2025-04-10 10:53:45.113083 GPIOReader scanning...
+2025-04-10 10:53:45.113083 Button Pressed
+2025-04-10 10:54:29.803262 Wait for Count
+2025-04-10 10:54:42.594697 GPIOReader scanning...
+2025-04-10 10:54:42.594697 Button Pressed
+2025-04-10 10:55:27.465543 Wait for Count
+2025-04-10 10:55:40.152578 GPIOReader scanning...
+2025-04-10 10:55:40.152578 Button Pressed
+2025-04-10 10:56:24.884836 Wait for Count
+2025-04-10 10:56:37.603677 GPIOReader scanning...
+2025-04-10 10:56:37.603677 Button Pressed
+2025-04-10 10:57:22.417879 Wait for Count
+2025-04-10 10:57:35.198061 GPIOReader scanning...
+2025-04-10 10:57:35.198061 Button Pressed
+2025-04-10 10:58:19.836702 Wait for Count
+2025-04-10 10:58:32.582304 GPIOReader scanning...
+2025-04-10 10:58:32.582304 Button Pressed
+2025-04-10 10:59:17.370322 Wait for Count
+2025-04-10 10:59:30.131754 GPIOReader scanning...
+2025-04-10 10:59:30.131754 Button Pressed
+2025-04-10 11:00:14.568229 Wait for Count
+2025-04-10 11:00:27.307975 GPIOReader scanning...
+2025-04-10 11:00:27.307975 Button Pressed
+2025-04-10 11:01:11.682331 Wait for Count
+2025-04-10 11:01:24.406586 GPIOReader scanning...
+2025-04-10 11:01:24.406586 Button Pressed
+2025-04-10 11:02:08.564583 Wait for Count
+2025-04-10 11:02:21.289218 GPIOReader scanning...
+2025-04-10 11:02:21.289218 Button Pressed
+2025-04-10 11:03:05.732403 Wait for Count
+2025-04-10 11:03:18.442297 GPIOReader scanning...
+2025-04-10 11:03:18.442297 Button Pressed
+2025-04-10 11:04:02.599883 Wait for Count
+2025-04-10 11:04:15.317954 GPIOReader scanning...
+2025-04-10 11:04:15.317954 Button Pressed
+2025-04-10 11:04:59.576062 Wait for Count
+2025-04-10 11:05:12.301135 GPIOReader scanning...
+2025-04-10 11:05:12.301135 Button Pressed
+2025-04-10 11:05:56.819459 Wait for Count
+2025-04-10 11:06:05.280265 GPIOReader scanning...
+2025-04-10 11:06:05.280265 Button Pressed
+2025-04-10 11:06:54.405691 Wait for Count
+2025-04-10 11:07:02.861566 GPIOReader scanning...
+2025-04-10 11:07:02.861566 Button Pressed
+2025-04-10 11:07:51.923467 Wait for Count
+2025-04-10 11:07:56.182933 Wait for Count
+2025-04-10 11:08:13.125672 GPIOReader scanning...
+2025-04-10 11:08:13.125672 Button Pressed
+2025-04-10 11:08:49.317065 Wait for Count
+2025-04-10 11:09:02.051108 GPIOReader scanning...
+2025-04-10 11:09:02.051108 Button Pressed
+2025-04-10 11:09:46.474110 Wait for Count
+2025-04-10 11:09:59.329319 GPIOReader scanning...
+2025-04-10 11:09:59.329319 Button Pressed
+2025-04-10 11:10:43.914344 Wait for Count
+2025-04-10 11:10:52.514068 GPIOReader scanning...
+2025-04-10 11:10:52.514068 Button Pressed
+2025-04-10 11:11:41.440801 Wait for Count
+2025-04-10 11:11:54.233710 GPIOReader scanning...
+2025-04-10 11:11:54.233710 Button Pressed
+2025-04-10 11:12:38.749792 Wait for Count
+2025-04-10 11:12:51.488517 GPIOReader scanning...
+2025-04-10 11:12:51.488517 Button Pressed
+2025-04-10 11:13:35.657928 Wait for Count
+2025-04-10 11:13:48.366029 GPIOReader scanning...
+2025-04-10 11:13:48.366029 Button Pressed
+2025-04-10 11:14:32.506722 Wait for Count
+2025-04-10 11:14:45.230257 GPIOReader scanning...
+2025-04-10 11:14:45.230257 Button Pressed
+2025-04-10 11:15:29.599083 Wait for Count
+2025-04-10 11:15:42.346949 GPIOReader scanning...
+2025-04-10 11:15:42.346949 Button Pressed
+2025-04-10 11:16:26.529808 Wait for Count
+2025-04-10 11:16:39.248442 GPIOReader scanning...
+2025-04-10 11:16:39.248442 Button Pressed
+2025-04-10 11:17:23.568114 Wait for Count
+2025-04-10 11:17:36.292783 GPIOReader scanning...
+2025-04-10 11:17:36.292783 Button Pressed
+2025-04-10 11:18:20.555260 Wait for Count
+2025-04-10 11:18:33.242176 GPIOReader scanning...
+2025-04-10 11:18:33.242176 Button Pressed
+2025-04-10 11:19:17.470845 Wait for Count
+2025-04-10 11:19:26.020545 GPIOReader scanning...
+2025-04-10 11:19:26.020545 Button Pressed
+2025-04-10 11:20:14.484095 Wait for Count
+2025-04-10 11:20:27.222310 GPIOReader scanning...
+2025-04-10 11:20:27.222310 Button Pressed
+2025-04-10 11:21:11.831156 Wait for Count
+2025-04-10 11:21:24.535953 GPIOReader scanning...
+2025-04-10 11:21:24.535953 Button Pressed
+2025-04-10 11:22:09.281213 Wait for Count
+2025-04-10 11:22:26.251270 GPIOReader scanning...
+2025-04-10 11:22:26.251270 Button Pressed
+2025-04-10 11:23:06.794314 Wait for Count
+2025-04-10 11:23:19.504846 GPIOReader scanning...
+2025-04-10 11:23:19.504846 Button Pressed
+2025-04-10 11:24:03.700831 Wait for Count
+2025-04-10 11:24:16.414883 GPIOReader scanning...
+2025-04-10 11:24:16.414883 Button Pressed
+2025-04-10 11:25:01.157814 Wait for Count
+2025-04-10 11:25:13.914303 GPIOReader scanning...
+2025-04-10 11:25:13.914303 Button Pressed
+2025-04-10 11:25:58.271840 Wait for Count
+2025-04-10 11:26:10.993774 GPIOReader scanning...
+2025-04-10 11:26:10.993774 Button Pressed
+2025-04-10 11:26:55.124557 Wait for Count
+2025-04-10 11:27:07.841550 GPIOReader scanning...
+2025-04-10 11:27:07.841550 Button Pressed
+2025-04-10 11:27:52.173131 Wait for Count
+2025-04-10 11:28:04.886631 GPIOReader scanning...
+2025-04-10 11:28:04.886631 Button Pressed
+2025-04-10 11:28:49.274418 Wait for Count
+2025-04-10 11:29:01.997420 GPIOReader scanning...
+2025-04-10 11:29:01.997420 Button Pressed
+2025-04-10 11:29:46.480057 GPIOReader scanning...
+2025-04-10 11:29:46.480057 Button Pressed
+2025-04-10 11:30:43.462176 Wait for Count
+2025-04-10 11:30:56.261231 GPIOReader scanning...
+2025-04-10 11:30:56.261231 Button Pressed
+2025-04-10 11:31:40.564366 Wait for Count
+2025-04-10 11:31:53.334324 GPIOReader scanning...
+2025-04-10 11:31:53.334324 Button Pressed
+2025-04-10 11:32:37.556000 Wait for Count
+2025-04-10 11:32:50.266479 GPIOReader scanning...
+2025-04-10 11:32:50.266479 Button Pressed
+2025-04-10 11:33:34.610198 Wait for Count
+2025-04-10 11:33:47.328338 GPIOReader scanning...
+2025-04-10 11:33:47.328338 Button Pressed
+2025-04-10 11:34:31.641948 Wait for Count
+2025-04-10 11:34:44.360130 GPIOReader scanning...
+2025-04-10 11:34:44.360130 Button Pressed
+2025-04-10 11:35:28.623138 Wait for Count
+2025-04-10 11:35:41.357994 GPIOReader scanning...
+2025-04-10 11:35:41.357994 Button Pressed
+2025-04-10 11:36:25.573362 Wait for Count
+2025-04-10 11:36:38.270876 GPIOReader scanning...
+2025-04-10 11:36:38.270876 Button Pressed
+2025-04-10 11:37:22.569406 Wait for Count
+2025-04-10 11:37:35.303888 GPIOReader scanning...
+2025-04-10 11:37:35.303888 Button Pressed
+2025-04-10 11:45:02.731609 Wait for Count
+2025-04-10 11:45:15.456683 GPIOReader scanning...
+2025-04-10 11:45:15.456683 Button Pressed
+2025-04-10 11:46:03.997742 Wait for Count
+2025-04-10 11:46:16.704128 GPIOReader scanning...
+2025-04-10 11:46:16.704128 Button Pressed
+2025-04-10 11:47:03.534390 Wait for Count
+2025-04-10 11:47:16.322498 GPIOReader scanning...
+2025-04-10 11:47:16.322498 Button Pressed
+2025-04-10 11:48:02.770224 Wait for Count
+2025-04-10 11:48:15.487830 GPIOReader scanning...
+2025-04-10 11:48:15.487830 Button Pressed
+2025-04-10 11:49:01.934443 Wait for Count
+2025-04-10 11:49:14.648817 GPIOReader scanning...
+2025-04-10 11:49:14.648817 Button Pressed
+2025-04-10 11:50:00.832510 Wait for Count
+2025-04-10 11:50:09.322423 GPIOReader scanning...
+2025-04-10 11:50:09.322423 Button Pressed
+2025-04-10 11:50:59.602871 Wait for Count
+2025-04-10 11:51:12.316490 GPIOReader scanning...
+2025-04-10 11:51:12.316490 Button Pressed
+2025-04-10 11:51:58.219611 Wait for Count
+2025-04-10 11:52:10.937342 GPIOReader scanning...
+2025-04-10 11:52:10.937342 Button Pressed
+2025-04-10 11:52:56.723147 Wait for Count
+2025-04-10 11:53:09.465433 GPIOReader scanning...
+2025-04-10 11:53:09.465433 Button Pressed
+2025-04-10 11:53:55.275085 Wait for Count
+2025-04-10 11:54:07.991258 GPIOReader scanning...
+2025-04-10 11:54:07.991258 Button Pressed
+2025-04-10 11:54:54.101866 Wait for Count
+2025-04-10 11:55:06.811402 GPIOReader scanning...
+2025-04-10 11:55:06.811402 Button Pressed
+2025-04-10 11:55:52.769161 Wait for Count
+2025-04-10 11:56:05.494872 GPIOReader scanning...
+2025-04-10 11:56:05.494872 Button Pressed
+2025-04-10 11:56:51.035303 Wait for Count
+2025-04-10 11:57:03.815540 GPIOReader scanning...
+2025-04-10 11:57:03.815540 Button Pressed
+2025-04-10 11:57:49.707136 Wait for Count
+2025-04-10 11:58:02.425136 GPIOReader scanning...
+2025-04-10 11:58:02.425136 Button Pressed
+2025-04-10 11:58:48.610623 Wait for Count
+2025-04-10 11:59:01.310988 GPIOReader scanning...
+2025-04-10 11:59:01.310988 Button Pressed
+2025-04-10 11:59:47.087837 Wait for Count
+2025-04-10 11:59:59.841465 GPIOReader scanning...
+2025-04-10 11:59:59.841465 Button Pressed
+2025-04-10 12:00:45.199541 Wait for Count
+2025-04-10 12:00:53.770359 GPIOReader scanning...
+2025-04-10 12:00:53.770359 Button Pressed
+2025-04-10 12:01:43.439942 Wait for Count
+2025-04-10 12:01:56.117051 GPIOReader scanning...
+2025-04-10 12:01:56.117051 Button Pressed
+2025-04-10 12:02:41.924538 Wait for Count
+2025-04-10 12:02:54.637823 GPIOReader scanning...
+2025-04-10 12:02:54.637823 Button Pressed
+2025-04-10 12:03:40.432434 Wait for Count
+2025-04-10 12:03:53.155102 GPIOReader scanning...
+2025-04-10 12:03:53.155102 Button Pressed
+2025-04-10 12:04:38.929604 Wait for Count
+2025-04-10 12:04:51.652316 GPIOReader scanning...
+2025-04-10 12:04:51.652316 Button Pressed
+2025-04-10 12:05:37.367089 Wait for Count
+2025-04-10 12:05:50.052456 GPIOReader scanning...
+2025-04-10 12:05:50.052456 Button Pressed
+2025-04-10 12:06:35.968656 Wait for Count
+2025-04-10 12:06:48.712345 GPIOReader scanning...
+2025-04-10 12:06:48.712345 Button Pressed
+2025-04-10 12:07:34.720866 Wait for Count
+2025-04-10 12:07:47.437114 GPIOReader scanning...
+2025-04-10 12:07:47.437114 Button Pressed
+2025-04-10 17:05:56.643129 Wait for Count
+2025-04-10 17:06:05.137656 GPIOReader scanning...
+2025-04-10 17:06:05.137656 Button Pressed
+2025-04-10 17:06:05.365161 Wait for Count
+2025-04-10 17:06:13.857189 GPIOReader scanning...
+2025-04-10 17:06:13.857189 Button Pressed
+2025-04-10 17:06:14.086194 Wait for Count
+2025-04-10 17:06:22.540578 GPIOReader scanning...
+2025-04-10 17:06:22.540578 Button Pressed
+2025-04-10 17:06:22.766997 Wait for Count
+2025-04-10 17:06:31.262861 GPIOReader scanning...
+2025-04-10 17:06:31.262861 Button Pressed
+2025-04-10 17:06:31.492819 Wait for Count
+2025-04-10 17:06:39.983331 GPIOReader scanning...
+2025-04-10 17:06:39.983331 Button Pressed
+2025-04-10 17:06:40.211833 Wait for Count
+2025-04-11 08:58:02.551980 GPIOReader scanning...
+2025-04-11 08:58:02.551980 Button Pressed
+2025-04-11 08:58:46.465745 Wait for Count
+2025-04-11 08:58:59.245286 GPIOReader scanning...
+2025-04-11 08:58:59.245286 Button Pressed
+2025-04-11 08:59:33.496878 Wait for Count
+2025-04-11 08:59:46.221008 GPIOReader scanning...
+2025-04-11 08:59:46.221008 Button Pressed
+2025-04-11 09:00:20.062717 Wait for Count
+2025-04-11 09:00:32.767519 GPIOReader scanning...
+2025-04-11 09:00:32.767519 Button Pressed
+2025-04-11 09:01:06.308597 Wait for Count
+2025-04-11 09:01:19.077727 GPIOReader scanning...
+2025-04-11 09:01:19.077727 Button Pressed
+2025-04-11 09:01:52.570437 Wait for Count
+2025-04-11 09:02:01.119868 GPIOReader scanning...
+2025-04-11 09:02:01.119868 Button Pressed
+2025-04-11 09:02:38.501805 Wait for Count
+2025-04-11 09:02:51.224570 GPIOReader scanning...
+2025-04-11 09:02:51.224570 Button Pressed
+2025-04-11 09:03:24.270983 Wait for Count
+2025-04-11 09:03:37.037028 GPIOReader scanning...
+2025-04-11 09:03:37.037028 Button Pressed
+2025-04-11 09:04:09.688788 Wait for Count
+2025-04-11 09:04:22.409631 GPIOReader scanning...
+2025-04-11 09:04:22.409631 Button Pressed
+2025-04-11 09:04:54.991981 Wait for Count
+2025-04-11 09:05:07.758478 GPIOReader scanning...
+2025-04-11 09:05:07.758478 Button Pressed
+2025-04-11 09:05:40.481605 Wait for Count
+2025-04-11 09:05:53.199836 GPIOReader scanning...
+2025-04-11 09:05:53.199836 Button Pressed
+2025-04-11 09:06:25.801552 Wait for Count
+2025-04-11 09:06:38.518890 GPIOReader scanning...
+2025-04-11 09:06:38.518890 Button Pressed
+2025-04-11 09:07:10.777331 Wait for Count
+2025-04-11 09:07:23.498933 GPIOReader scanning...
+2025-04-11 09:07:23.498933 Button Pressed
+2025-04-11 09:07:55.563943 Wait for Count
+2025-04-11 09:08:08.269463 GPIOReader scanning...
+2025-04-11 09:08:08.269463 Button Pressed
+2025-04-11 09:08:40.500715 Wait for Count
+2025-04-11 09:08:53.218354 GPIOReader scanning...
+2025-04-11 09:08:53.218354 Button Pressed
+2025-04-11 09:09:24.908769 Wait for Count
+2025-04-11 09:09:37.624023 GPIOReader scanning...
+2025-04-11 09:09:37.624023 Button Pressed
+2025-04-11 09:10:09.389519 Wait for Count
+2025-04-11 09:10:17.856343 GPIOReader scanning...
+2025-04-11 09:10:17.856343 Button Pressed
+2025-04-11 09:10:53.768620 Wait for Count
+2025-04-11 09:11:06.501641 GPIOReader scanning...
+2025-04-11 09:11:06.501641 Button Pressed
+2025-04-11 09:11:38.185691 Wait for Count
+2025-04-11 09:11:50.898406 GPIOReader scanning...
+2025-04-11 09:11:50.898406 Button Pressed
+2025-04-11 09:12:22.649597 Wait for Count
+2025-04-11 09:12:35.521811 GPIOReader scanning...
+2025-04-11 09:12:35.521811 Button Pressed
+2025-04-11 09:13:06.994886 Wait for Count
+2025-04-11 09:13:21.573405 GPIOReader scanning...
+2025-04-11 09:13:21.573405 Button Pressed
+2025-04-11 09:13:51.014210 Wait for Count
+2025-04-11 09:13:59.542273 GPIOReader scanning...
+2025-04-11 09:13:59.542273 Button Pressed
+2025-04-11 09:14:35.027082 Wait for Count
+2025-04-11 09:14:47.744801 GPIOReader scanning...
+2025-04-11 09:14:47.744801 Button Pressed
+2025-04-11 09:15:19.397118 Wait for Count
+2025-04-11 09:15:32.116117 GPIOReader scanning...
+2025-04-11 09:15:32.116117 Button Pressed
+2025-04-11 09:16:03.210482 Wait for Count
+2025-04-11 09:16:15.910437 GPIOReader scanning...
+2025-04-11 09:16:15.910437 Button Pressed
+2025-04-11 09:16:47.326959 Wait for Count
+2025-04-11 09:17:00.109530 GPIOReader scanning...
+2025-04-11 09:17:00.109530 Button Pressed
+2025-04-11 09:20:50.634977 Wait for Count
+2025-04-11 09:21:03.328596 GPIOReader scanning...
+2025-04-11 09:21:03.328596 Button Pressed
+2025-04-11 09:21:34.610589 Wait for Count
+2025-04-11 09:21:47.320073 GPIOReader scanning...
+2025-04-11 09:21:47.320073 Button Pressed
+2025-04-11 09:22:18.415675 Wait for Count
+2025-04-11 09:22:31.128928 GPIOReader scanning...
+2025-04-11 09:22:31.128928 Button Pressed
+2025-04-11 09:23:01.888906 Wait for Count
+2025-04-11 09:23:10.418997 GPIOReader scanning...
+2025-04-11 09:23:10.418997 Button Pressed
+2025-04-11 09:23:45.309465 Wait for Count
+2025-04-11 09:23:58.025690 GPIOReader scanning...
+2025-04-11 09:23:58.025690 Button Pressed
+2025-04-11 09:24:29.006068 Wait for Count
+2025-04-11 09:24:41.727210 GPIOReader scanning...
+2025-04-11 09:24:41.727210 Button Pressed
+2025-04-11 09:25:12.452962 Wait for Count
+2025-04-11 09:25:25.173479 GPIOReader scanning...
+2025-04-11 09:25:25.173479 Button Pressed
+2025-04-11 09:25:56.387109 Wait for Count
+2025-04-11 09:26:09.096520 GPIOReader scanning...
+2025-04-11 09:26:09.096520 Button Pressed
+2025-04-11 09:26:39.745143 Wait for Count
+2025-04-11 09:26:52.472710 GPIOReader scanning...
+2025-04-11 09:26:52.472710 Button Pressed
+2025-04-11 09:27:23.221280 Wait for Count
+2025-04-11 09:27:35.935747 GPIOReader scanning...
+2025-04-11 09:27:35.935747 Button Pressed
+2025-04-11 09:28:06.554152 Wait for Count
+2025-04-11 09:28:19.270860 GPIOReader scanning...
+2025-04-11 09:28:19.270860 Button Pressed
+2025-04-11 09:28:50.082957 Wait for Count
+2025-04-11 09:29:02.828623 GPIOReader scanning...
+2025-04-11 09:29:02.828623 Button Pressed
+2025-04-11 09:29:33.500456 Wait for Count
+2025-04-11 09:29:46.209876 GPIOReader scanning...
+2025-04-11 09:29:46.209876 Button Pressed
+2025-04-11 09:30:16.405917 Wait for Count
+2025-04-11 09:30:29.122272 GPIOReader scanning...
+2025-04-11 09:30:29.122272 Button Pressed
+2025-04-11 09:30:59.348475 Wait for Count
+2025-04-11 09:31:12.068961 GPIOReader scanning...
+2025-04-11 09:31:12.068961 Button Pressed
+2025-04-11 09:31:42.218687 Wait for Count
+2025-04-11 09:31:54.939770 GPIOReader scanning...
+2025-04-11 09:31:54.939770 Button Pressed
+2025-04-11 09:32:25.216705 Wait for Count
+2025-04-11 09:32:37.927603 GPIOReader scanning...
+2025-04-11 09:32:37.927603 Button Pressed
+2025-04-11 09:33:08.163700 Wait for Count
+2025-04-11 09:33:20.879545 GPIOReader scanning...
+2025-04-11 09:33:20.879545 Button Pressed
+2025-04-11 09:33:51.084650 Wait for Count
+2025-04-11 09:34:03.797910 GPIOReader scanning...
+2025-04-11 09:34:03.797910 Button Pressed
+2025-04-11 09:34:34.018126 Wait for Count
+2025-04-11 09:34:46.773812 GPIOReader scanning...
+2025-04-11 09:34:46.773812 Button Pressed
+2025-04-11 09:35:16.388842 Wait for Count
+2025-04-11 09:35:29.087718 GPIOReader scanning...
+2025-04-11 09:35:29.087718 Button Pressed
+2025-04-11 09:35:58.931511 Wait for Count
+2025-04-11 09:36:11.656982 GPIOReader scanning...
+2025-04-11 09:36:11.656982 Button Pressed
+2025-04-11 09:36:41.963574 Wait for Count
+2025-04-11 09:36:54.714350 GPIOReader scanning...
+2025-04-11 09:36:54.714350 Button Pressed
+2025-04-11 09:37:24.348976 Wait for Count
+2025-04-11 09:37:32.866122 GPIOReader scanning...
+2025-04-11 09:37:32.866122 Button Pressed
+2025-04-11 09:38:06.714340 Wait for Count
+2025-04-11 09:38:19.423810 GPIOReader scanning...
+2025-04-11 09:38:19.423810 Button Pressed
+2025-04-11 09:38:49.254936 Wait for Count
+2025-04-11 09:39:01.971492 GPIOReader scanning...
+2025-04-11 09:39:01.971492 Button Pressed
+2025-04-11 09:39:31.558608 Wait for Count
+2025-04-11 09:39:40.056239 GPIOReader scanning...
+2025-04-11 09:39:40.056239 Button Pressed
+2025-04-11 09:40:13.904996 Wait for Count
+2025-04-11 09:40:26.613725 GPIOReader scanning...
+2025-04-11 09:40:26.613725 Button Pressed
+2025-04-11 09:40:55.976585 Wait for Count
+2025-04-11 09:41:08.695291 GPIOReader scanning...
+2025-04-11 09:41:08.695291 Button Pressed
+2025-04-11 09:41:37.830131 Wait for Count
+2025-04-11 09:41:50.543037 GPIOReader scanning...
+2025-04-11 09:41:50.543037 Button Pressed
+2025-04-11 09:42:19.892245 Wait for Count
+2025-04-11 09:42:28.389129 GPIOReader scanning...
+2025-04-11 09:42:28.389129 Button Pressed
+2025-04-11 09:43:01.748414 Wait for Count
+2025-04-11 09:43:14.435009 GPIOReader scanning...
+2025-04-11 09:43:14.435009 Button Pressed
+2025-04-11 09:43:43.717717 Wait for Count
+2025-04-11 09:43:56.424686 GPIOReader scanning...
+2025-04-11 09:43:56.424686 Button Pressed
+2025-04-11 09:44:25.577814 Wait for Count
+2025-04-11 09:44:38.288077 GPIOReader scanning...
+2025-04-11 09:44:38.288077 Button Pressed
+2025-04-11 09:45:07.717577 Wait for Count
+2025-04-11 09:45:20.460108 GPIOReader scanning...
+2025-04-11 09:45:20.460108 Button Pressed
+2025-04-11 09:45:49.615157 Wait for Count
+2025-04-11 09:46:02.333172 GPIOReader scanning...
+2025-04-11 09:46:02.333172 Button Pressed
+2025-04-11 09:46:31.048608 Wait for Count
+2025-04-11 09:46:43.778345 GPIOReader scanning...
+2025-04-11 09:46:43.778345 Button Pressed
+2025-04-11 09:47:13.014369 Wait for Count
+2025-04-11 09:47:25.729503 GPIOReader scanning...
+2025-04-11 09:47:25.729503 Button Pressed
+2025-04-11 09:47:55.013629 Wait for Count
+2025-04-11 09:48:07.733348 GPIOReader scanning...
+2025-04-11 09:48:07.733348 Button Pressed
+2025-04-11 09:48:36.985818 Wait for Count
+2025-04-11 09:48:49.704011 GPIOReader scanning...
+2025-04-11 09:48:49.704011 Button Pressed
+2025-04-11 09:49:18.504480 Wait for Count
+2025-04-11 09:49:31.285904 GPIOReader scanning...
+2025-04-11 09:49:31.285904 Button Pressed
+2025-04-11 09:49:59.939850 GPIOReader scanning...
+2025-04-11 09:49:59.939850 Button Pressed
+2025-04-11 09:50:41.912941 Wait for Count
+2025-04-11 09:50:54.626966 GPIOReader scanning...
+2025-04-11 09:50:54.626966 Button Pressed
+2025-04-11 09:51:23.351281 Wait for Count
+2025-04-11 09:51:36.103104 GPIOReader scanning...
+2025-04-11 09:51:36.103104 Button Pressed
+2025-04-11 09:52:04.854337 Wait for Count
+2025-04-11 09:52:17.573543 GPIOReader scanning...
+2025-04-11 09:52:17.573543 Button Pressed
+2025-04-11 09:52:46.292741 Wait for Count
+2025-04-11 09:52:59.014784 GPIOReader scanning...
+2025-04-11 09:52:59.014784 Button Pressed
+2025-04-11 09:53:27.764703 Wait for Count
+2025-04-11 09:53:40.481687 GPIOReader scanning...
+2025-04-11 09:53:40.481687 Button Pressed
+2025-04-11 09:54:09.240000 Wait for Count
+2025-04-11 09:54:21.960996 GPIOReader scanning...
+2025-04-11 09:54:21.960996 Button Pressed
+2025-04-11 09:54:50.662589 Wait for Count
+2025-04-11 09:55:03.443335 GPIOReader scanning...
+2025-04-11 09:55:03.443335 Button Pressed
+2025-04-11 09:55:32.186294 Wait for Count
+2025-04-11 09:55:40.742916 GPIOReader scanning...
+2025-04-11 09:55:40.742916 Button Pressed
+2025-04-11 09:56:13.565896 Wait for Count
+2025-04-11 09:56:22.073593 GPIOReader scanning...
+2025-04-11 09:56:22.073593 Button Pressed
+2025-04-11 09:56:55.132350 Wait for Count
+2025-04-11 09:57:07.812039 GPIOReader scanning...
+2025-04-11 09:57:07.812039 Button Pressed
+2025-04-11 09:57:36.607010 Wait for Count
+2025-04-11 09:57:49.312736 GPIOReader scanning...
+2025-04-11 09:57:49.312736 Button Pressed
+2025-04-11 09:58:17.478492 Wait for Count
+2025-04-11 09:58:30.239574 GPIOReader scanning...
+2025-04-11 09:58:30.239574 Button Pressed
+2025-04-11 09:58:58.517794 Wait for Count
+2025-04-11 09:59:11.249948 GPIOReader scanning...
+2025-04-11 09:59:11.249948 Button Pressed
+2025-04-11 09:59:39.551146 Wait for Count
+2025-04-11 09:59:52.274258 GPIOReader scanning...
+2025-04-11 09:59:52.274258 Button Pressed
+2025-04-11 10:00:20.514441 Wait for Count
+2025-04-11 10:00:33.199847 GPIOReader scanning...
+2025-04-11 10:00:33.199847 Button Pressed
+2025-04-11 10:01:01.480694 Wait for Count
+2025-04-11 10:01:14.177919 GPIOReader scanning...
+2025-04-11 10:01:14.177919 Button Pressed
+2025-04-11 10:01:42.399160 Wait for Count
+2025-04-11 10:01:50.905870 GPIOReader scanning...
+2025-04-11 10:01:50.905870 Button Pressed
+2025-04-11 10:02:23.334990 Wait for Count
+2025-04-11 10:02:31.835248 GPIOReader scanning...
+2025-04-11 10:02:31.835248 Button Pressed
+2025-04-11 10:03:04.292244 Wait for Count
+2025-04-11 10:03:12.841580 GPIOReader scanning...
+2025-04-11 10:03:12.841580 Button Pressed
+2025-04-11 10:03:45.254142 Wait for Count
+2025-04-11 10:03:53.803347 GPIOReader scanning...
+2025-04-11 10:03:53.803347 Button Pressed
+2025-04-11 10:04:26.203882 Wait for Count
+2025-04-11 10:04:39.006373 GPIOReader scanning...
+2025-04-11 10:04:39.006373 Button Pressed
+2025-04-11 10:05:07.292935 Wait for Count
+2025-04-11 10:05:20.079497 GPIOReader scanning...
+2025-04-11 10:05:20.079497 Button Pressed
+2025-04-11 10:18:39.142168 Wait for Count
+2025-04-11 10:18:51.862879 GPIOReader scanning...
+2025-04-11 10:18:51.862879 Button Pressed
+2025-04-11 10:19:47.408508 Wait for Count
+2025-04-11 10:20:00.222188 GPIOReader scanning...
+2025-04-11 10:20:00.222188 Button Pressed
+2025-04-11 10:20:28.622516 Wait for Count
+2025-04-11 10:20:41.440469 GPIOReader scanning...
+2025-04-11 10:20:41.440469 Button Pressed
+2025-04-11 10:21:09.929504 Wait for Count
+2025-04-11 10:21:18.485818 GPIOReader scanning...
+2025-04-11 10:21:18.485818 Button Pressed
+2025-04-11 10:21:50.917654 Wait for Count
+2025-04-11 10:22:03.732209 GPIOReader scanning...
+2025-04-11 10:22:03.732209 Button Pressed
+2025-04-11 10:22:31.716449 Wait for Count
+2025-04-11 10:22:44.445251 GPIOReader scanning...
+2025-04-11 10:22:44.445251 Button Pressed
+2025-04-11 10:23:12.673676 Wait for Count
+2025-04-11 10:23:25.416885 GPIOReader scanning...
+2025-04-11 10:23:25.416885 Button Pressed
+2025-04-11 10:23:53.572524 Wait for Count
+2025-04-11 10:24:06.351075 GPIOReader scanning...
+2025-04-11 10:24:06.351075 Button Pressed
+2025-04-11 10:24:34.502726 Wait for Count
+2025-04-11 10:24:47.208708 GPIOReader scanning...
+2025-04-11 10:24:47.208708 Button Pressed
+2025-04-11 10:25:15.007519 Wait for Count
+2025-04-11 10:25:27.726153 GPIOReader scanning...
+2025-04-11 10:25:27.726153 Button Pressed
+2025-04-11 10:25:55.579465 Wait for Count
+2025-04-11 10:26:08.301348 GPIOReader scanning...
+2025-04-11 10:26:08.301348 Button Pressed
+2025-04-11 10:26:36.465807 Wait for Count
+2025-04-11 10:26:49.193416 GPIOReader scanning...
+2025-04-11 10:26:49.193416 Button Pressed
+2025-04-11 10:27:16.847675 Wait for Count
+2025-04-11 10:27:29.525069 GPIOReader scanning...
+2025-04-11 10:27:29.525069 Button Pressed
+2025-04-11 10:27:57.312376 Wait for Count
+2025-04-11 10:28:10.039591 GPIOReader scanning...
+2025-04-11 10:28:10.039591 Button Pressed
+2025-04-11 10:28:37.842699 Wait for Count
+2025-04-11 10:28:46.343871 GPIOReader scanning...
+2025-04-11 10:28:46.343871 Button Pressed
+2025-04-11 10:29:18.249670 Wait for Count
+2025-04-11 10:29:31.005709 GPIOReader scanning...
+2025-04-11 10:29:31.005709 Button Pressed
+2025-04-11 10:29:58.646264 Wait for Count
+2025-04-11 10:30:11.359735 GPIOReader scanning...
+2025-04-11 10:30:11.359735 Button Pressed
+2025-04-11 10:30:39.172999 Wait for Count
+2025-04-11 10:30:51.873838 GPIOReader scanning...
+2025-04-11 10:30:51.873838 Button Pressed
+2025-04-11 10:31:19.627728 Wait for Count
+2025-04-11 10:31:32.349096 GPIOReader scanning...
+2025-04-11 10:31:32.349096 Button Pressed
+2025-04-11 10:31:59.615808 Wait for Count
+2025-04-11 10:32:12.324473 GPIOReader scanning...
+2025-04-11 10:32:12.324473 Button Pressed
+2025-04-11 10:32:40.097065 Wait for Count
+2025-04-11 10:32:48.580444 GPIOReader scanning...
+2025-04-11 10:32:48.580444 Button Pressed
+2025-04-11 10:33:20.530326 Wait for Count
+2025-04-11 10:33:33.308137 GPIOReader scanning...
+2025-04-11 10:33:33.308137 Button Pressed
+2025-04-11 10:34:00.407214 Wait for Count
+2025-04-11 10:34:13.122823 GPIOReader scanning...
+2025-04-11 10:34:13.122823 Button Pressed
+2025-04-11 10:34:40.456799 Wait for Count
+2025-04-11 10:34:53.168283 GPIOReader scanning...
+2025-04-11 10:34:53.168283 Button Pressed
+2025-04-11 10:35:20.589376 GPIOReader scanning...
+2025-04-11 10:35:20.589376 Button Pressed
+2025-04-11 10:36:00.911123 Wait for Count
+2025-04-11 10:36:13.697853 GPIOReader scanning...
+2025-04-11 10:36:13.697853 Button Pressed
+2025-04-11 10:36:40.933614 Wait for Count
+2025-04-11 10:36:53.645916 GPIOReader scanning...
+2025-04-11 10:36:53.645916 Button Pressed
+2025-04-11 10:37:20.934910 Wait for Count
+2025-04-11 10:37:33.639016 GPIOReader scanning...
+2025-04-11 10:37:33.639016 Button Pressed
+2025-04-11 10:38:01.072495 Wait for Count
+2025-04-11 10:38:13.750082 GPIOReader scanning...
+2025-04-11 10:38:13.750082 Button Pressed
+2025-04-11 10:58:48.475218 Wait for Count
+2025-04-11 10:59:01.194955 GPIOReader scanning...
+2025-04-11 10:59:01.194955 Button Pressed
+2025-04-11 10:59:29.296063 Wait for Count
+2025-04-11 10:59:42.006609 GPIOReader scanning...
+2025-04-11 10:59:42.006609 Button Pressed
+2025-04-11 11:00:10.012549 Wait for Count
+2025-04-11 11:00:22.722996 GPIOReader scanning...
+2025-04-11 11:00:22.722996 Button Pressed
+2025-04-11 11:00:50.274620 Wait for Count
+2025-04-11 11:01:03.143392 GPIOReader scanning...
+2025-04-11 11:01:03.143392 Button Pressed
+2025-04-11 11:01:30.744211 Wait for Count
+2025-04-11 11:01:43.453040 GPIOReader scanning...
+2025-04-11 11:01:43.453040 Button Pressed
+2025-04-11 11:02:11.088329 Wait for Count
+2025-04-11 11:02:23.868898 GPIOReader scanning...
+2025-04-11 11:02:23.868898 Button Pressed
+2025-04-11 11:02:51.534168 Wait for Count
+2025-04-11 11:03:04.252778 GPIOReader scanning...
+2025-04-11 11:03:04.252778 Button Pressed
+2025-04-11 11:03:31.418083 Wait for Count
+2025-04-11 11:03:44.146439 GPIOReader scanning...
+2025-04-11 11:03:44.146439 Button Pressed
+2025-04-11 11:04:11.418386 Wait for Count
+2025-04-11 11:04:24.203058 GPIOReader scanning...
+2025-04-11 11:04:24.203058 Button Pressed
+2025-04-11 11:04:51.411252 Wait for Count
+2025-04-11 11:05:04.126086 GPIOReader scanning...
+2025-04-11 11:05:04.126086 Button Pressed
+2025-04-11 11:05:30.956782 Wait for Count
+2025-04-11 11:05:43.676775 GPIOReader scanning...
+2025-04-11 11:05:43.676775 Button Pressed
+2025-04-11 11:06:09.035619 Wait for Count
+2025-04-11 11:06:21.740605 GPIOReader scanning...
+2025-04-11 11:06:21.740605 Button Pressed
+2025-04-11 11:06:47.182800 Wait for Count
+2025-04-11 11:06:59.894386 GPIOReader scanning...
+2025-04-11 11:06:59.894386 Button Pressed
+2025-04-11 11:07:25.527997 Wait for Count
+2025-04-11 11:07:38.245500 GPIOReader scanning...
+2025-04-11 11:07:38.245500 Button Pressed
+2025-04-11 11:08:03.557088 Wait for Count
+2025-04-11 11:08:16.275186 GPIOReader scanning...
+2025-04-11 11:08:16.275186 Button Pressed
+2025-04-11 11:08:41.531046 Wait for Count
+2025-04-11 11:08:54.240308 GPIOReader scanning...
+2025-04-11 11:08:54.240308 Button Pressed
+2025-04-11 11:09:19.937114 Wait for Count
+2025-04-11 11:09:28.466329 GPIOReader scanning...
+2025-04-11 11:09:28.466329 Button Pressed
+2025-04-11 11:09:57.924455 Wait for Count
+2025-04-11 11:10:10.663332 GPIOReader scanning...
+2025-04-11 11:10:10.663332 Button Pressed
+2025-04-11 11:10:35.907973 Wait for Count
+2025-04-11 11:10:48.633462 GPIOReader scanning...
+2025-04-11 11:10:48.633462 Button Pressed
+2025-04-11 11:11:13.831973 Wait for Count
+2025-04-11 11:11:26.542585 GPIOReader scanning...
+2025-04-11 11:11:26.542585 Button Pressed
+2025-04-11 11:11:51.739756 Wait for Count
+2025-04-11 11:12:04.564602 GPIOReader scanning...
+2025-04-11 11:12:04.564602 Button Pressed
+2025-04-11 11:12:29.842180 Wait for Count
+2025-04-11 11:12:42.564457 GPIOReader scanning...
+2025-04-11 11:12:42.564457 Button Pressed
+2025-04-11 11:13:07.748266 Wait for Count
+2025-04-11 11:13:20.466458 GPIOReader scanning...
+2025-04-11 11:13:20.466458 Button Pressed
+2025-04-11 11:13:45.291858 Wait for Count
+2025-04-11 11:13:58.024648 GPIOReader scanning...
+2025-04-11 11:13:58.024648 Button Pressed
+2025-04-11 11:14:23.148012 Wait for Count
+2025-04-11 11:14:35.856959 GPIOReader scanning...
+2025-04-11 11:14:35.856959 Button Pressed
+2025-04-11 11:15:01.209353 Wait for Count
+2025-04-11 11:15:09.715924 GPIOReader scanning...
+2025-04-11 11:15:09.715924 Button Pressed
+2025-04-11 11:15:39.046925 Wait for Count
+2025-04-11 11:15:51.769565 GPIOReader scanning...
+2025-04-11 11:15:51.769565 Button Pressed
+2025-04-11 11:16:17.355781 Wait for Count
+2025-04-11 11:16:30.072052 GPIOReader scanning...
+2025-04-11 11:16:30.072052 Button Pressed
+2025-04-11 11:39:29.627644 Wait for Count
+2025-04-11 11:39:38.143048 GPIOReader scanning...
+2025-04-11 11:39:38.143048 Button Pressed
+2025-04-11 11:40:16.630207 Wait for Count
+2025-04-11 11:40:29.348922 GPIOReader scanning...
+2025-04-11 11:40:29.348922 Button Pressed
+2025-04-11 11:41:02.998982 Wait for Count
+2025-04-11 11:41:15.717882 GPIOReader scanning...
+2025-04-11 11:41:15.717882 Button Pressed
+2025-04-11 11:41:48.957960 Wait for Count
+2025-04-11 11:42:01.742425 GPIOReader scanning...
+2025-04-11 11:42:01.742425 Button Pressed
+2025-04-11 11:42:34.755973 Wait for Count
+2025-04-11 11:42:43.217892 GPIOReader scanning...
+2025-04-11 11:42:43.217892 Button Pressed
+2025-04-11 11:43:20.491805 Wait for Count
+2025-04-11 11:43:33.194102 GPIOReader scanning...
+2025-04-11 11:43:33.194102 Button Pressed
+2025-04-11 11:44:06.405344 Wait for Count
+2025-04-11 11:44:19.123382 GPIOReader scanning...
+2025-04-11 11:44:19.123382 Button Pressed
+2025-04-11 11:44:51.797980 Wait for Count
+2025-04-11 11:45:04.511943 GPIOReader scanning...
+2025-04-11 11:45:04.511943 Button Pressed
+2025-04-11 11:45:37.407336 Wait for Count
+2025-04-11 11:45:50.185780 GPIOReader scanning...
+2025-04-11 11:45:50.185780 Button Pressed
+2025-04-11 11:46:22.719646 Wait for Count
+2025-04-11 11:46:35.467504 GPIOReader scanning...
+2025-04-11 11:46:35.467504 Button Pressed
+2025-04-11 11:47:08.375448 Wait for Count
+2025-04-11 11:47:21.092978 GPIOReader scanning...
+2025-04-11 11:47:21.092978 Button Pressed
+2025-04-11 11:47:53.594136 Wait for Count
+2025-04-11 11:48:06.313560 GPIOReader scanning...
+2025-04-11 11:48:06.313560 Button Pressed
+2025-04-11 11:48:38.588286 Wait for Count
+2025-04-11 11:48:51.305985 GPIOReader scanning...
+2025-04-11 11:48:51.305985 Button Pressed
+2025-04-11 11:49:23.590175 Wait for Count
+2025-04-11 11:49:36.332652 GPIOReader scanning...
+2025-04-11 11:49:36.332652 Button Pressed
+2025-04-11 11:50:08.962331 Wait for Count
+2025-04-11 11:50:21.700078 GPIOReader scanning...
+2025-04-11 11:50:21.700078 Button Pressed
+2025-04-11 11:50:54.031829 Wait for Count
+2025-04-11 11:51:06.746451 GPIOReader scanning...
+2025-04-11 11:51:06.746451 Button Pressed
+2025-04-11 11:51:39.046301 Wait for Count
+2025-04-11 11:51:51.768147 GPIOReader scanning...
+2025-04-11 11:51:51.768147 Button Pressed
+2025-04-11 11:52:24.451554 Wait for Count
+2025-04-11 11:52:37.164575 GPIOReader scanning...
+2025-04-11 11:52:37.164575 Button Pressed
+2025-04-11 11:53:09.549841 Wait for Count
+2025-04-11 11:53:22.252141 GPIOReader scanning...
+2025-04-11 11:53:22.252141 Button Pressed
+2025-04-11 11:53:54.831671 Wait for Count
+2025-04-11 11:54:07.548531 GPIOReader scanning...
+2025-04-11 11:54:07.548531 Button Pressed
+2025-04-11 11:54:39.898771 Wait for Count
+2025-04-11 11:54:52.616063 GPIOReader scanning...
+2025-04-11 11:54:52.616063 Button Pressed
+2025-04-11 11:55:24.986391 Wait for Count
+2025-04-11 11:55:37.687431 GPIOReader scanning...
+2025-04-11 11:55:37.687431 Button Pressed
+2025-04-11 11:56:10.012020 Wait for Count
+2025-04-11 11:56:22.744019 GPIOReader scanning...
+2025-04-11 11:56:22.744019 Button Pressed
+2025-04-11 11:56:55.368286 Wait for Count
+2025-04-11 11:57:08.092418 GPIOReader scanning...
+2025-04-11 11:57:08.092418 Button Pressed
+2025-04-11 11:57:40.317362 Wait for Count
+2025-04-11 11:57:53.058743 GPIOReader scanning...
+2025-04-11 11:57:53.058743 Button Pressed
+2025-04-11 11:58:25.381748 Wait for Count
+2025-04-11 11:58:38.094833 GPIOReader scanning...
+2025-04-11 11:58:38.094833 Button Pressed
+2025-04-11 11:59:10.221603 Wait for Count
+2025-04-11 11:59:22.934602 GPIOReader scanning...
+2025-04-11 11:59:22.934602 Button Pressed
+2025-04-11 11:59:55.288344 Wait for Count
+2025-04-11 12:00:08.010365 GPIOReader scanning...
+2025-04-11 12:00:08.010365 Button Pressed
+2025-04-11 12:00:40.087597 Wait for Count
+2025-04-11 12:00:52.797265 GPIOReader scanning...
+2025-04-11 12:00:52.797265 Button Pressed
+2025-04-11 12:01:25.143485 Wait for Count
+2025-04-11 12:01:37.876142 GPIOReader scanning...
+2025-04-11 12:01:37.876142 Button Pressed
+2025-04-11 12:02:10.210819 Wait for Count
+2025-04-11 12:02:22.925254 GPIOReader scanning...
+2025-04-11 12:02:22.925254 Button Pressed
+2025-04-11 12:02:55.125294 Wait for Count
+2025-04-11 12:03:07.836668 GPIOReader scanning...
+2025-04-11 12:03:07.836668 Button Pressed
+2025-04-11 12:03:40.118194 Wait for Count
+2025-04-11 12:03:48.574126 GPIOReader scanning...
+2025-04-11 12:03:48.574126 Button Pressed
+2025-04-11 12:04:25.204582 Wait for Count
+2025-04-11 12:04:33.661592 GPIOReader scanning...
+2025-04-11 12:04:33.661592 Button Pressed
+2025-04-11 12:05:10.292377 Wait for Count
+2025-04-11 12:05:18.756723 GPIOReader scanning...
+2025-04-11 12:05:18.756723 Button Pressed
+2025-04-11 12:05:55.185775 Wait for Count
+2025-04-11 12:06:07.991533 GPIOReader scanning...
+2025-04-11 12:06:07.991533 Button Pressed
+2025-04-11 12:06:40.102761 Wait for Count
+2025-04-11 12:06:52.870611 GPIOReader scanning...
+2025-04-11 12:06:52.870611 Button Pressed
+2025-04-11 12:07:25.096011 Wait for Count
+2025-04-11 12:07:37.830683 GPIOReader scanning...
+2025-04-11 12:07:37.830683 Button Pressed
+2025-04-11 12:08:10.059661 Wait for Count
+2025-04-11 12:08:22.782278 GPIOReader scanning...
+2025-04-11 12:08:22.782278 Button Pressed
+2025-04-11 12:08:54.671826 Wait for Count
+2025-04-11 12:09:07.384679 GPIOReader scanning...
+2025-04-11 12:09:07.384679 Button Pressed
+2025-04-11 12:09:39.501791 Wait for Count
+2025-04-11 12:09:52.212739 GPIOReader scanning...
+2025-04-11 12:09:52.212739 Button Pressed
+2025-04-11 12:10:24.054684 Wait for Count
+2025-04-11 12:10:36.768301 GPIOReader scanning...
+2025-04-11 12:10:36.768301 Button Pressed
+2025-04-11 12:11:08.919475 Wait for Count
+2025-04-11 12:11:21.639908 GPIOReader scanning...
+2025-04-11 12:11:21.639908 Button Pressed
+2025-04-11 12:11:53.426595 Wait for Count
+2025-04-11 12:12:06.135997 GPIOReader scanning...
+2025-04-11 12:12:06.135997 Button Pressed
+2025-04-11 12:12:37.881292 Wait for Count
+2025-04-11 12:12:46.401387 GPIOReader scanning...
+2025-04-11 12:12:46.401387 Button Pressed
+2025-04-11 12:13:22.380271 Wait for Count
+2025-04-11 12:13:35.161157 GPIOReader scanning...
+2025-04-11 12:13:35.161157 Button Pressed
+2025-04-11 12:14:06.845792 Wait for Count
+2025-04-11 12:14:19.568783 GPIOReader scanning...
+2025-04-11 12:14:19.568783 Button Pressed
+2025-04-11 12:14:51.420058 Wait for Count
+2025-04-11 12:15:04.126779 GPIOReader scanning...
+2025-04-11 12:15:04.126779 Button Pressed
+2025-04-11 12:15:35.719957 Wait for Count
+2025-04-11 12:15:48.434924 GPIOReader scanning...
+2025-04-11 12:15:48.434924 Button Pressed
+2025-04-11 12:16:20.324621 Wait for Count
+2025-04-11 12:16:33.042359 GPIOReader scanning...
+2025-04-11 12:16:33.042359 Button Pressed
+2025-04-11 12:17:04.798588 Wait for Count
+2025-04-11 12:17:13.323432 GPIOReader scanning...
+2025-04-11 12:17:13.323432 Button Pressed
+2025-04-11 12:17:49.305176 Wait for Count
+2025-04-11 12:18:02.086453 GPIOReader scanning...
+2025-04-11 12:18:02.086453 Button Pressed
+2025-04-11 12:18:33.711550 Wait for Count
+2025-04-11 12:18:46.456576 GPIOReader scanning...
+2025-04-11 12:18:46.456576 Button Pressed
+2025-04-11 12:19:18.198880 Wait for Count
+2025-04-11 12:19:30.909564 GPIOReader scanning...
+2025-04-11 12:19:30.909564 Button Pressed
+2025-04-11 12:20:02.821241 Wait for Count
+2025-04-11 12:20:15.563629 GPIOReader scanning...
+2025-04-11 12:20:15.563629 Button Pressed
+2025-04-11 12:20:47.211956 Wait for Count
+2025-04-11 12:20:59.936653 GPIOReader scanning...
+2025-04-11 12:20:59.936653 Button Pressed
+2025-04-11 12:21:31.982763 Wait for Count
+2025-04-11 12:21:36.247889 Wait for Count
+2025-04-11 12:21:53.185705 GPIOReader scanning...
+2025-04-11 12:21:53.185705 Button Pressed
+2025-04-11 12:22:16.414436 Wait for Count
+2025-04-11 12:22:29.164601 GPIOReader scanning...
+2025-04-11 12:22:29.164601 Button Pressed
+2025-04-11 12:23:00.711165 Wait for Count
+2025-04-11 12:23:13.431301 GPIOReader scanning...
+2025-04-11 12:23:13.431301 Button Pressed
+2025-04-11 12:23:45.322266 Wait for Count
+2025-04-11 12:23:58.041206 GPIOReader scanning...
+2025-04-11 12:23:58.041206 Button Pressed
+2025-04-11 12:24:29.823817 Wait for Count
+2025-04-11 12:24:42.522241 GPIOReader scanning...
+2025-04-11 12:24:42.522241 Button Pressed
+2025-04-11 12:25:14.247598 Wait for Count
+2025-04-11 12:25:26.934952 GPIOReader scanning...
+2025-04-11 12:25:26.934952 Button Pressed
+2025-04-11 12:25:58.813062 Wait for Count
+2025-04-11 12:26:07.339477 GPIOReader scanning...
+2025-04-11 12:26:07.339477 Button Pressed
+2025-04-11 12:26:43.123311 Wait for Count
+2025-04-11 12:26:55.827196 GPIOReader scanning...
+2025-04-11 12:26:55.827196 Button Pressed
+2025-04-11 12:27:27.682861 Wait for Count
+2025-04-11 12:27:40.400918 GPIOReader scanning...
+2025-04-11 12:27:40.400918 Button Pressed
+2025-04-11 12:28:12.344432 Wait for Count
+2025-04-11 12:28:25.066056 GPIOReader scanning...
+2025-04-11 12:28:25.066056 Button Pressed
+2025-04-11 12:28:56.803576 Wait for Count
+2025-04-11 12:29:09.520137 GPIOReader scanning...
+2025-04-11 12:29:09.520137 Button Pressed
+2025-04-11 12:29:41.265204 Wait for Count
+2025-04-11 12:29:53.996260 GPIOReader scanning...
+2025-04-11 12:29:53.996260 Button Pressed
+2025-04-11 12:30:25.918630 Wait for Count
+2025-04-11 12:30:34.423019 GPIOReader scanning...
+2025-04-11 12:30:34.423019 Button Pressed
+2025-04-11 12:31:10.137744 Wait for Count
+2025-04-11 12:31:22.857570 GPIOReader scanning...
+2025-04-11 12:31:22.857570 Button Pressed
+2025-04-11 12:31:54.824553 Wait for Count
+2025-04-11 12:32:07.540422 GPIOReader scanning...
+2025-04-11 12:32:07.540422 Button Pressed
+2025-04-11 12:32:39.117291 Wait for Count
+2025-04-11 12:32:51.832317 GPIOReader scanning...
+2025-04-11 12:32:51.832317 Button Pressed
+2025-04-11 12:33:23.120877 Wait for Count
+2025-04-11 12:33:35.822742 GPIOReader scanning...
+2025-04-11 12:33:35.822742 Button Pressed
+2025-04-11 12:34:07.395140 Wait for Count
+2025-04-11 12:34:20.154739 GPIOReader scanning...
+2025-04-11 12:34:20.154739 Button Pressed
+2025-04-11 12:34:51.611439 Wait for Count
+2025-04-11 12:35:04.362807 GPIOReader scanning...
+2025-04-11 12:35:04.362807 Button Pressed
+2025-04-11 12:35:35.669466 Wait for Count
+2025-04-11 12:35:48.405815 GPIOReader scanning...
+2025-04-11 12:35:48.405815 Button Pressed
+2025-04-11 12:36:20.127651 Wait for Count
+2025-04-11 12:36:32.837845 GPIOReader scanning...
+2025-04-11 12:36:32.837845 Button Pressed
+2025-04-11 12:37:04.619033 Wait for Count
+2025-04-11 12:37:17.345536 GPIOReader scanning...
+2025-04-11 12:37:17.345536 Button Pressed
+2025-04-11 12:37:49.090400 Wait for Count
+2025-04-11 12:38:01.849665 GPIOReader scanning...
+2025-04-11 12:38:01.849665 Button Pressed
+2025-04-11 12:38:33.290867 Wait for Count
+2025-04-11 12:38:45.997312 GPIOReader scanning...
+2025-04-11 12:38:45.997312 Button Pressed
+2025-04-11 12:39:17.470653 Wait for Count
+2025-04-11 12:39:30.185129 GPIOReader scanning...
+2025-04-11 12:39:30.185129 Button Pressed
+2025-04-11 12:40:01.621967 Wait for Count
+2025-04-11 12:40:14.319862 GPIOReader scanning...
+2025-04-11 12:40:14.319862 Button Pressed
+2025-04-11 12:40:46.143998 Wait for Count
+2025-04-11 12:40:54.630794 GPIOReader scanning...
+2025-04-11 12:40:54.630794 Button Pressed
+2025-04-11 12:41:30.078887 Wait for Count
+2025-04-11 12:41:42.802988 GPIOReader scanning...
+2025-04-11 12:41:42.802988 Button Pressed
+2025-04-11 12:42:14.396561 Wait for Count
+2025-04-11 12:42:27.111897 GPIOReader scanning...
+2025-04-11 12:42:27.111897 Button Pressed
+2025-04-11 12:42:58.626722 Wait for Count
+2025-04-11 12:43:11.328722 GPIOReader scanning...
+2025-04-11 12:43:11.328722 Button Pressed
+2025-04-11 12:43:42.536707 Wait for Count
+2025-04-11 12:43:55.287692 GPIOReader scanning...
+2025-04-11 12:43:55.287692 Button Pressed
+2025-04-11 12:44:26.589326 Wait for Count
+2025-04-11 12:44:39.298961 GPIOReader scanning...
+2025-04-11 12:44:39.298961 Button Pressed
+2025-04-11 12:45:10.540399 Wait for Count
+2025-04-11 12:45:23.273874 GPIOReader scanning...
+2025-04-11 12:45:23.273874 Button Pressed
+2025-04-11 12:45:54.509681 GPIOReader scanning...
+2025-04-11 12:45:54.509681 Button Pressed
+2025-04-11 12:46:38.504485 Wait for Count
+2025-04-11 12:46:51.224404 GPIOReader scanning...
+2025-04-11 12:46:51.224404 Button Pressed
+2025-04-11 12:47:22.550542 Wait for Count
+2025-04-11 12:47:35.266366 GPIOReader scanning...
+2025-04-11 12:47:35.266366 Button Pressed
+2025-04-11 12:48:06.600737 Wait for Count
+2025-04-11 12:48:19.327957 GPIOReader scanning...
+2025-04-11 12:48:19.327957 Button Pressed
+2025-04-11 12:48:50.548215 Wait for Count
+2025-04-11 12:49:03.317073 GPIOReader scanning...
+2025-04-11 12:49:03.317073 Button Pressed
+2025-04-11 12:49:34.688576 Wait for Count
+2025-04-11 12:49:47.410270 GPIOReader scanning...
+2025-04-11 12:49:47.410270 Button Pressed
+2025-04-11 12:50:18.920770 Wait for Count
+2025-04-11 12:50:31.642404 GPIOReader scanning...
+2025-04-11 12:50:31.642404 Button Pressed
+2025-04-11 12:51:03.340405 Wait for Count
+2025-04-11 12:51:16.058064 GPIOReader scanning...
+2025-04-11 12:51:16.058064 Button Pressed
+2025-04-11 13:01:17.883348 Wait for Count
+2025-04-11 13:01:30.668400 GPIOReader scanning...
+2025-04-11 13:01:30.668400 Button Pressed
+2025-04-11 13:02:02.548294 Wait for Count
+2025-04-11 13:02:15.268728 GPIOReader scanning...
+2025-04-11 13:02:15.268728 Button Pressed
+2025-04-11 13:02:47.409671 Wait for Count
+2025-04-11 13:03:00.162261 GPIOReader scanning...
+2025-04-11 13:03:00.162261 Button Pressed
+2025-04-11 13:03:31.854120 Wait for Count
+2025-04-11 13:03:44.575872 GPIOReader scanning...
+2025-04-11 13:03:44.575872 Button Pressed
+2025-04-11 13:04:16.277351 Wait for Count
+2025-04-11 13:04:24.741586 GPIOReader scanning...
+2025-04-11 13:04:24.741586 Button Pressed
+2025-04-11 13:05:00.870301 Wait for Count
+2025-04-11 13:05:09.401029 GPIOReader scanning...
+2025-04-11 13:05:09.401029 Button Pressed
+2025-04-11 13:05:45.166707 Wait for Count
+2025-04-11 13:05:57.927059 GPIOReader scanning...
+2025-04-11 13:05:57.927059 Button Pressed
+2025-04-11 13:06:29.620443 Wait for Count
+2025-04-11 13:06:42.324924 GPIOReader scanning...
+2025-04-11 13:06:42.324924 Button Pressed
+2025-04-11 13:07:14.287057 Wait for Count
+2025-04-11 13:07:27.078357 GPIOReader scanning...
+2025-04-11 13:07:27.078357 Button Pressed
+2025-04-11 13:07:58.534088 Wait for Count
+2025-04-11 13:08:11.261438 GPIOReader scanning...
+2025-04-11 13:08:11.261438 Button Pressed
+2025-04-11 13:08:42.633506 Wait for Count
+2025-04-11 13:08:51.162516 GPIOReader scanning...
+2025-04-11 13:08:51.162516 Button Pressed
+2025-04-11 13:09:26.561664 Wait for Count
+2025-04-11 13:09:39.304344 GPIOReader scanning...
+2025-04-11 13:09:39.304344 Button Pressed
+2025-04-11 13:10:10.576748 Wait for Count
+2025-04-11 13:10:23.294386 GPIOReader scanning...
+2025-04-11 13:10:23.294386 Button Pressed
+2025-04-11 13:10:54.642848 Wait for Count
+2025-04-11 13:11:07.360036 GPIOReader scanning...
+2025-04-11 13:11:07.360036 Button Pressed
+2025-04-11 13:11:39.192605 Wait for Count
+2025-04-11 13:11:51.977214 GPIOReader scanning...
+2025-04-11 13:11:51.977214 Button Pressed
+2025-04-11 13:12:23.476320 Wait for Count
+2025-04-11 13:12:36.194673 GPIOReader scanning...
+2025-04-11 13:12:36.194673 Button Pressed
+2025-04-11 13:13:07.465313 Wait for Count
+2025-04-11 13:13:20.184338 GPIOReader scanning...
+2025-04-11 13:13:20.184338 Button Pressed
+2025-04-11 13:13:51.410162 Wait for Count
+2025-04-11 13:14:04.129171 GPIOReader scanning...
+2025-04-11 13:14:04.129171 Button Pressed
+2025-04-11 13:14:35.529128 Wait for Count
+2025-04-11 13:14:48.305022 GPIOReader scanning...
+2025-04-11 13:14:48.305022 Button Pressed
+2025-04-11 13:15:19.439508 Wait for Count
+2025-04-11 13:15:32.151553 GPIOReader scanning...
+2025-04-11 13:15:32.151553 Button Pressed
+2025-04-11 13:16:03.527587 Wait for Count
+2025-04-11 13:16:16.277072 GPIOReader scanning...
+2025-04-11 13:16:16.277072 Button Pressed
+2025-04-11 13:16:47.490779 Wait for Count
+2025-04-11 13:16:55.985111 GPIOReader scanning...
+2025-04-11 13:16:55.985111 Button Pressed
+2025-04-11 13:17:31.551420 Wait for Count
+2025-04-11 13:17:44.272731 GPIOReader scanning...
+2025-04-11 13:17:44.272731 Button Pressed
+2025-04-11 13:18:15.509480 Wait for Count
+2025-04-11 13:18:28.223835 GPIOReader scanning...
+2025-04-11 13:18:28.223835 Button Pressed
+2025-04-11 13:18:59.382307 Wait for Count
+2025-04-11 13:19:12.092219 GPIOReader scanning...
+2025-04-11 13:19:12.092219 Button Pressed
+2025-04-11 13:19:43.545192 Wait for Count
+2025-04-11 13:19:56.288720 GPIOReader scanning...
+2025-04-11 13:19:56.288720 Button Pressed
+2025-04-11 13:20:27.426956 Wait for Count
+2025-04-11 13:20:40.120244 GPIOReader scanning...
+2025-04-11 13:20:40.120244 Button Pressed
+2025-04-11 13:21:11.472877 Wait for Count
+2025-04-11 13:21:24.193562 GPIOReader scanning...
+2025-04-11 13:21:24.193562 Button Pressed
+2025-04-11 13:21:55.433800 Wait for Count
+2025-04-11 13:22:03.942607 GPIOReader scanning...
+2025-04-11 13:22:03.942607 Button Pressed
+2025-04-11 13:22:39.609036 Wait for Count
+2025-04-11 13:22:52.333177 GPIOReader scanning...
+2025-04-11 13:22:52.333177 Button Pressed
+2025-04-11 13:23:23.295523 Wait for Count
+2025-04-11 13:23:36.012466 GPIOReader scanning...
+2025-04-11 13:23:36.012466 Button Pressed
+2025-04-11 13:24:07.313996 Wait for Count
+2025-04-11 13:24:20.032050 GPIOReader scanning...
+2025-04-11 13:24:20.032050 Button Pressed
+2025-04-11 13:24:51.319580 Wait for Count
+2025-04-11 13:25:04.043893 GPIOReader scanning...
+2025-04-11 13:25:04.043893 Button Pressed
+2025-04-11 13:25:35.315315 Wait for Count
+2025-04-11 13:25:48.030998 GPIOReader scanning...
+2025-04-11 13:25:48.030998 Button Pressed
+2025-04-11 13:26:19.261447 Wait for Count
+2025-04-11 13:26:31.971185 GPIOReader scanning...
+2025-04-11 13:26:31.971185 Button Pressed
+2025-04-11 13:27:03.456575 Wait for Count
+2025-04-11 13:27:16.211653 GPIOReader scanning...
+2025-04-11 13:27:16.211653 Button Pressed
+2025-04-11 13:27:47.522853 Wait for Count
+2025-04-11 13:28:00.241060 GPIOReader scanning...
+2025-04-11 13:28:00.241060 Button Pressed
+2025-04-11 13:28:31.338114 Wait for Count
+2025-04-11 13:28:44.065944 GPIOReader scanning...
+2025-04-11 13:28:44.065944 Button Pressed
+2025-04-11 13:29:15.245902 Wait for Count
+2025-04-11 13:29:23.705243 GPIOReader scanning...
+2025-04-11 13:29:23.705243 Button Pressed
+2025-04-11 13:29:59.313847 Wait for Count
+2025-04-11 13:30:12.059770 GPIOReader scanning...
+2025-04-11 13:30:12.059770 Button Pressed
+2025-04-11 13:30:43.271700 Wait for Count
+2025-04-11 13:30:55.995015 GPIOReader scanning...
+2025-04-11 13:30:55.995015 Button Pressed
+2025-04-11 13:31:27.251861 Wait for Count
+2025-04-11 13:31:39.965396 GPIOReader scanning...
+2025-04-11 13:31:39.965396 Button Pressed
+2025-04-11 13:32:11.194528 Wait for Count
+2025-04-11 13:32:23.964624 GPIOReader scanning...
+2025-04-11 13:32:23.964624 Button Pressed
+2025-04-11 13:32:55.138986 Wait for Count
+2025-04-11 13:33:07.861452 GPIOReader scanning...
+2025-04-11 13:33:07.861452 Button Pressed
+2025-04-11 13:33:39.305638 Wait for Count
+2025-04-11 13:33:52.014436 GPIOReader scanning...
+2025-04-11 13:33:52.014436 Button Pressed
+2025-04-11 13:34:23.229629 Wait for Count
+2025-04-11 13:34:31.720023 GPIOReader scanning...
+2025-04-11 13:34:31.720023 Button Pressed
+2025-04-11 13:35:07.247020 Wait for Count
+2025-04-11 13:35:19.965688 GPIOReader scanning...
+2025-04-11 13:35:19.965688 Button Pressed
+2025-04-11 13:35:51.217846 Wait for Count
+2025-04-11 13:36:03.939828 GPIOReader scanning...
+2025-04-11 13:36:03.939828 Button Pressed
+2025-04-11 13:36:35.156139 Wait for Count
+2025-04-11 13:36:47.870423 GPIOReader scanning...
+2025-04-11 13:36:47.870423 Button Pressed
+2025-04-11 13:37:19.244124 Wait for Count
+2025-04-11 13:37:32.009405 GPIOReader scanning...
+2025-04-11 13:37:32.009405 Button Pressed
+2025-04-11 13:38:03.170446 Wait for Count
+2025-04-11 13:38:15.882810 GPIOReader scanning...
+2025-04-11 13:38:15.882810 Button Pressed
+2025-04-11 13:38:47.163065 Wait for Count
+2025-04-11 13:38:59.913389 GPIOReader scanning...
+2025-04-11 13:38:59.913389 Button Pressed
+2025-04-11 13:39:31.246381 Wait for Count
+2025-04-11 13:39:39.768412 GPIOReader scanning...
+2025-04-11 13:39:39.768412 Button Pressed
+2025-04-11 13:40:14.671493 Wait for Count
+2025-04-11 13:40:27.390874 GPIOReader scanning...
+2025-04-11 13:40:27.390874 Button Pressed
+2025-04-11 13:40:58.706010 Wait for Count
+2025-04-11 13:41:11.426756 GPIOReader scanning...
+2025-04-11 13:41:11.426756 Button Pressed
+2025-04-11 13:41:42.730845 Wait for Count
+2025-04-11 13:41:51.198431 GPIOReader scanning...
+2025-04-11 13:41:51.198431 Button Pressed
+2025-04-11 13:42:26.340544 Wait for Count
+2025-04-11 13:42:39.054366 GPIOReader scanning...
+2025-04-11 13:42:39.054366 Button Pressed
+2025-04-11 13:43:10.230485 Wait for Count
+2025-04-11 13:43:22.952650 GPIOReader scanning...
+2025-04-11 13:43:22.952650 Button Pressed
+2025-04-11 13:43:54.313742 Wait for Count
+2025-04-11 13:44:07.035412 GPIOReader scanning...
+2025-04-11 13:44:07.035412 Button Pressed
+2025-04-11 13:44:38.233258 Wait for Count
+2025-04-11 13:44:50.949367 GPIOReader scanning...
+2025-04-11 13:44:50.949367 Button Pressed
+2025-04-11 13:45:22.285700 Wait for Count
+2025-04-11 13:45:35.005794 GPIOReader scanning...
+2025-04-11 13:45:35.005794 Button Pressed
+2025-04-11 13:46:06.153637 Wait for Count
+2025-04-11 13:46:18.874423 GPIOReader scanning...
+2025-04-11 13:46:18.874423 Button Pressed
+2025-04-11 13:46:49.833283 Wait for Count
+2025-04-11 13:47:02.563013 GPIOReader scanning...
+2025-04-11 13:47:02.563013 Button Pressed
+2025-04-11 13:47:33.687643 Wait for Count
+2025-04-11 13:47:46.398126 GPIOReader scanning...
+2025-04-11 13:47:46.398126 Button Pressed
+2025-04-11 13:48:17.636846 Wait for Count
+2025-04-11 13:48:30.352614 GPIOReader scanning...
+2025-04-11 13:48:30.352614 Button Pressed
+2025-04-11 13:49:01.286335 Wait for Count
+2025-04-11 13:49:14.004056 GPIOReader scanning...
+2025-04-11 13:49:14.004056 Button Pressed
+2025-04-11 13:49:45.213867 Wait for Count
+2025-04-11 13:49:57.930123 GPIOReader scanning...
+2025-04-11 13:49:57.930123 Button Pressed
+2025-04-11 13:50:28.638331 Wait for Count
+2025-04-11 13:50:37.112512 GPIOReader scanning...
+2025-04-11 13:50:37.112512 Button Pressed
+2025-04-11 13:51:12.114763 Wait for Count
+2025-04-11 13:51:24.831751 GPIOReader scanning...
+2025-04-11 13:51:24.831751 Button Pressed
+2025-04-11 13:51:55.844610 Wait for Count
+2025-04-11 13:52:08.551067 GPIOReader scanning...
+2025-04-11 13:52:08.551067 Button Pressed
+2025-04-11 13:52:39.591417 Wait for Count
+2025-04-11 13:52:48.100912 GPIOReader scanning...
+2025-04-11 13:52:48.100912 Button Pressed
+2025-04-11 13:53:23.298584 Wait for Count
+2025-04-11 13:53:36.039376 GPIOReader scanning...
+2025-04-11 13:53:36.039376 Button Pressed
+2025-04-11 13:54:07.075660 Wait for Count
+2025-04-11 13:54:19.789387 GPIOReader scanning...
+2025-04-11 13:54:19.789387 Button Pressed
+2025-04-11 13:54:50.561094 Wait for Count
+2025-04-11 13:55:03.329967 GPIOReader scanning...
+2025-04-11 13:55:03.329967 Button Pressed
+2025-04-11 13:55:34.191080 Wait for Count
+2025-04-11 13:55:46.901983 GPIOReader scanning...
+2025-04-11 13:55:46.901983 Button Pressed
+2025-04-11 13:56:17.579052 Wait for Count
+2025-04-11 13:56:26.039585 GPIOReader scanning...
+2025-04-11 13:56:26.039585 Button Pressed
+2025-04-11 13:57:01.069685 Wait for Count
+2025-04-11 13:57:13.787049 GPIOReader scanning...
+2025-04-11 13:57:13.787049 Button Pressed
+2025-04-11 13:57:44.560664 Wait for Count
+2025-04-11 13:57:57.299686 GPIOReader scanning...
+2025-04-11 13:57:57.299686 Button Pressed
+2025-04-11 13:58:28.008910 Wait for Count
+2025-04-11 13:58:40.737736 GPIOReader scanning...
+2025-04-11 13:58:40.737736 Button Pressed
+2025-04-11 13:59:11.534315 Wait for Count
+2025-04-11 13:59:24.254590 GPIOReader scanning...
+2025-04-11 13:59:24.254590 Button Pressed
+2025-04-11 13:59:55.133992 Wait for Count
+2025-04-11 14:00:03.632312 GPIOReader scanning...
+2025-04-11 14:00:03.632312 Button Pressed
+2025-04-11 14:00:38.582427 Wait for Count
+2025-04-11 14:00:51.285631 GPIOReader scanning...
+2025-04-11 14:00:51.285631 Button Pressed
+2025-04-11 14:01:22.107280 Wait for Count
+2025-04-11 14:01:34.846525 GPIOReader scanning...
+2025-04-11 14:01:34.846525 Button Pressed
+2025-04-11 14:02:05.556051 Wait for Count
+2025-04-11 14:02:18.270537 GPIOReader scanning...
+2025-04-11 14:02:18.270537 Button Pressed
+2025-04-11 14:02:49.188804 Wait for Count
+2025-04-11 14:03:01.886755 GPIOReader scanning...
+2025-04-11 14:03:01.886755 Button Pressed
+2025-04-11 14:03:32.692569 Wait for Count
+2025-04-11 14:03:41.178976 GPIOReader scanning...
+2025-04-11 14:03:41.178976 Button Pressed
+2025-04-11 14:04:16.066866 Wait for Count
+2025-04-11 14:04:28.785138 GPIOReader scanning...
+2025-04-11 14:04:28.785138 Button Pressed
+2025-04-11 14:04:59.501848 Wait for Count
+2025-04-11 14:05:12.200769 GPIOReader scanning...
+2025-04-11 14:05:12.200769 Button Pressed
+2025-04-11 14:05:43.157165 Wait for Count
+2025-04-11 14:05:55.870686 GPIOReader scanning...
+2025-04-11 14:05:55.870686 Button Pressed
+2025-04-11 14:06:26.528895 Wait for Count
+2025-04-11 14:06:39.298002 GPIOReader scanning...
+2025-04-11 14:06:39.298002 Button Pressed
+2025-04-11 14:07:10.093216 Wait for Count
+2025-04-11 14:07:22.891645 GPIOReader scanning...
+2025-04-11 14:07:22.891645 Button Pressed
+2025-04-11 14:07:53.446842 Wait for Count
+2025-04-11 14:08:06.161255 GPIOReader scanning...
+2025-04-11 14:08:06.161255 Button Pressed
+2025-04-11 14:08:37.133564 Wait for Count
+2025-04-11 14:08:49.838745 GPIOReader scanning...
+2025-04-11 14:08:49.838745 Button Pressed
+2025-04-11 14:09:20.513705 Wait for Count
+2025-04-11 14:09:33.214271 GPIOReader scanning...
+2025-04-11 14:09:33.214271 Button Pressed
+2025-04-11 14:10:04.236063 Wait for Count
+2025-04-11 14:10:16.937051 GPIOReader scanning...
+2025-04-11 14:10:16.937051 Button Pressed
+2025-04-11 14:10:47.523147 Wait for Count
+2025-04-11 14:10:56.063213 GPIOReader scanning...
+2025-04-11 14:10:56.063213 Button Pressed
+2025-04-11 14:11:31.452329 Wait for Count
+2025-04-11 14:11:44.152612 GPIOReader scanning...
+2025-04-11 14:11:44.152612 Button Pressed
+2025-04-11 14:34:36.633594 Wait for Count
+2025-04-11 14:34:49.352072 GPIOReader scanning...
+2025-04-11 14:34:49.352072 Button Pressed
+2025-04-11 14:35:21.360733 Wait for Count
+2025-04-11 14:35:34.080671 GPIOReader scanning...
+2025-04-11 14:35:34.080671 Button Pressed
+2025-04-11 14:36:05.857911 Wait for Count
+2025-04-11 14:36:14.309378 GPIOReader scanning...
+2025-04-11 14:36:14.309378 Button Pressed
+2025-04-11 14:36:50.319897 Wait for Count
+2025-04-11 14:36:58.869788 GPIOReader scanning...
+2025-04-11 14:36:58.869788 Button Pressed
+2025-04-11 14:37:34.539189 Wait for Count
+2025-04-11 14:37:47.240572 GPIOReader scanning...
+2025-04-11 14:37:47.240572 Button Pressed
+2025-04-11 14:38:18.414650 Wait for Count
+2025-04-11 14:38:31.131148 GPIOReader scanning...
+2025-04-11 14:38:31.131148 Button Pressed
+2025-04-11 14:39:02.302171 Wait for Count
+2025-04-11 14:39:15.020025 GPIOReader scanning...
+2025-04-11 14:39:15.020025 Button Pressed
+2025-04-11 14:39:46.259660 Wait for Count
+2025-04-11 14:39:58.973824 GPIOReader scanning...
+2025-04-11 14:39:58.973824 Button Pressed
+2025-04-11 14:40:30.195386 Wait for Count
+2025-04-11 14:40:42.909319 GPIOReader scanning...
+2025-04-11 14:40:42.909319 Button Pressed
+2025-04-11 14:41:13.750421 Wait for Count
+2025-04-11 14:41:22.207384 GPIOReader scanning...
+2025-04-11 14:41:22.207384 Button Pressed
+2025-04-11 14:41:57.056406 Wait for Count
+2025-04-11 14:42:09.877679 GPIOReader scanning...
+2025-04-11 14:42:09.877679 Button Pressed
+2025-04-11 14:42:40.633999 Wait for Count
+2025-04-11 14:42:53.372729 GPIOReader scanning...
+2025-04-11 14:42:53.372729 Button Pressed
+2025-04-11 14:43:24.126384 Wait for Count
+2025-04-11 14:43:36.850753 GPIOReader scanning...
+2025-04-11 14:43:36.850753 Button Pressed
+2025-04-11 14:44:07.590673 Wait for Count
+2025-04-11 14:44:20.299724 GPIOReader scanning...
+2025-04-11 14:44:20.299724 Button Pressed
+2025-04-11 14:44:51.178281 Wait for Count
+2025-04-11 14:44:59.709258 GPIOReader scanning...
+2025-04-11 14:44:59.709258 Button Pressed
+2025-04-11 14:45:34.624429 Wait for Count
+2025-04-11 14:45:47.336401 GPIOReader scanning...
+2025-04-11 14:45:47.336401 Button Pressed
+2025-04-11 14:46:18.511588 Wait for Count
+2025-04-11 14:46:31.227964 GPIOReader scanning...
+2025-04-11 14:46:31.227964 Button Pressed
+2025-04-11 14:47:01.828253 Wait for Count
+2025-04-11 14:47:14.524092 GPIOReader scanning...
+2025-04-11 14:47:14.524092 Button Pressed
+2025-04-11 14:47:45.041300 Wait for Count
+2025-04-11 14:47:57.745473 GPIOReader scanning...
+2025-04-11 14:47:57.745473 Button Pressed
+2025-04-11 14:48:28.557035 Wait for Count
+2025-04-11 14:48:37.080925 GPIOReader scanning...
+2025-04-11 14:48:37.080925 Button Pressed
+2025-04-11 14:49:11.974521 Wait for Count
+2025-04-11 14:49:24.701218 GPIOReader scanning...
+2025-04-11 14:49:24.701218 Button Pressed
+2025-04-11 14:49:55.574058 Wait for Count
+2025-04-11 14:50:08.297079 GPIOReader scanning...
+2025-04-11 14:50:08.297079 Button Pressed
+2025-04-11 14:50:39.096913 Wait for Count
+2025-04-11 14:50:51.812002 GPIOReader scanning...
+2025-04-11 14:50:51.812002 Button Pressed
+2025-04-11 14:51:22.419036 Wait for Count
+2025-04-11 14:51:35.135470 GPIOReader scanning...
+2025-04-11 14:51:35.135470 Button Pressed
+2025-04-11 14:52:06.001522 Wait for Count
+2025-04-11 14:52:18.789935 GPIOReader scanning...
+2025-04-11 14:52:18.789935 Button Pressed
+2025-04-11 14:52:49.414797 Wait for Count
+2025-04-11 14:53:02.119833 GPIOReader scanning...
+2025-04-11 14:53:02.119833 Button Pressed
+2025-04-11 14:53:33.004466 Wait for Count
+2025-04-11 14:53:41.484908 GPIOReader scanning...
+2025-04-11 14:53:41.484908 Button Pressed
+2025-04-11 14:54:16.365749 Wait for Count
+2025-04-11 14:54:29.112844 GPIOReader scanning...
+2025-04-11 14:54:29.112844 Button Pressed
+2025-04-11 14:54:59.886392 Wait for Count
+2025-04-11 14:55:12.604693 GPIOReader scanning...
+2025-04-11 14:55:12.604693 Button Pressed
+2025-04-11 14:55:43.386180 Wait for Count
+2025-04-11 14:55:56.112493 GPIOReader scanning...
+2025-04-11 14:55:56.112493 Button Pressed
+2025-04-11 14:56:26.897693 Wait for Count
+2025-04-11 14:56:39.608232 GPIOReader scanning...
+2025-04-11 14:56:39.608232 Button Pressed
+2025-04-11 14:57:10.519461 Wait for Count
+2025-04-11 14:57:19.037749 GPIOReader scanning...
+2025-04-11 14:57:19.037749 Button Pressed
+2025-04-11 14:57:53.954915 Wait for Count
+2025-04-11 14:58:06.670871 GPIOReader scanning...
+2025-04-11 14:58:06.670871 Button Pressed
+2025-04-11 14:58:37.477083 Wait for Count
+2025-04-11 14:58:50.190753 GPIOReader scanning...
+2025-04-11 14:58:50.190753 Button Pressed
+2025-04-11 14:59:21.019464 Wait for Count
+2025-04-11 14:59:33.741349 GPIOReader scanning...
+2025-04-11 14:59:33.741349 Button Pressed
+2025-04-11 15:00:04.459993 Wait for Count
+2025-04-11 15:00:17.262780 GPIOReader scanning...
+2025-04-11 15:00:17.262780 Button Pressed
+2025-04-11 15:00:47.880907 Wait for Count
+2025-04-11 15:00:56.408023 GPIOReader scanning...
+2025-04-11 15:00:56.408023 Button Pressed
+2025-04-11 15:01:31.259893 Wait for Count
+2025-04-11 15:01:44.052093 GPIOReader scanning...
+2025-04-11 15:01:44.052093 Button Pressed
+2025-04-11 15:02:14.457328 Wait for Count
+2025-04-11 15:02:22.956827 GPIOReader scanning...
+2025-04-11 15:02:22.956827 Button Pressed
+2025-04-11 15:02:57.728133 Wait for Count
+2025-04-11 15:03:10.441037 GPIOReader scanning...
+2025-04-11 15:03:10.441037 Button Pressed
+2025-04-11 15:03:41.015621 Wait for Count
+2025-04-11 15:03:45.268448 Wait for Count
+2025-04-11 15:03:53.759440 GPIOReader scanning...
+2025-04-11 15:03:53.759440 Button Pressed
+2025-04-11 15:04:23.766501 Wait for Count
+2025-04-11 15:04:36.520203 GPIOReader scanning...
+2025-04-11 15:04:36.520203 Button Pressed
+2025-04-11 15:05:06.835141 Wait for Count
+2025-04-11 15:05:19.595196 GPIOReader scanning...
+2025-04-11 15:05:19.595196 Button Pressed
+2025-04-11 15:05:50.202376 Wait for Count
+2025-04-11 15:06:02.917472 GPIOReader scanning...
+2025-04-11 15:06:02.917472 Button Pressed
+2025-04-11 15:06:33.427502 Wait for Count
+2025-04-11 15:06:37.688616 Wait for Count
+2025-04-11 15:06:54.633194 GPIOReader scanning...
+2025-04-11 15:06:54.633194 Button Pressed
+2025-04-11 15:07:16.861242 Wait for Count
+2025-04-11 15:07:29.576757 GPIOReader scanning...
+2025-04-11 15:07:29.576757 Button Pressed
+2025-04-11 15:07:59.905257 Wait for Count
+2025-04-11 15:08:08.358948 GPIOReader scanning...
+2025-04-11 15:08:08.358948 Button Pressed
+2025-04-11 15:08:42.832008 Wait for Count
+2025-04-11 15:08:55.552614 GPIOReader scanning...
+2025-04-11 15:08:55.552614 Button Pressed
+2025-04-11 15:09:26.015215 Wait for Count
+2025-04-11 15:09:34.520867 GPIOReader scanning...
+2025-04-11 15:09:34.520867 Button Pressed
+2025-04-11 15:10:09.351180 Wait for Count
+2025-04-11 15:10:22.090921 GPIOReader scanning...
+2025-04-11 15:10:22.090921 Button Pressed
+2025-04-11 15:10:52.914636 Wait for Count
+2025-04-11 15:11:05.652922 GPIOReader scanning...
+2025-04-11 15:11:05.652922 Button Pressed
+2025-04-11 15:11:36.557336 Wait for Count
+2025-04-11 15:11:49.278786 GPIOReader scanning...
+2025-04-11 15:11:49.278786 Button Pressed
+2025-04-11 15:12:19.968012 Wait for Count
+2025-04-11 15:12:32.689774 GPIOReader scanning...
+2025-04-11 15:12:32.689774 Button Pressed
+2025-04-11 15:13:03.424041 Wait for Count
+2025-04-11 15:13:11.949157 GPIOReader scanning...
+2025-04-11 15:13:11.949157 Button Pressed
+2025-04-11 15:13:46.959077 Wait for Count
+2025-04-11 15:13:59.682229 GPIOReader scanning...
+2025-04-11 15:13:59.682229 Button Pressed
+2025-04-11 15:14:30.374663 Wait for Count
+2025-04-11 15:14:43.095371 GPIOReader scanning...
+2025-04-11 15:14:43.095371 Button Pressed
+2025-04-11 15:15:13.957027 Wait for Count
+2025-04-11 15:15:26.676811 GPIOReader scanning...
+2025-04-11 15:15:26.676811 Button Pressed
+2025-04-11 15:15:57.325538 Wait for Count
+2025-04-11 15:16:10.029629 GPIOReader scanning...
+2025-04-11 15:16:10.029629 Button Pressed
+2025-04-11 15:16:40.923671 Wait for Count
+2025-04-11 15:16:53.716714 GPIOReader scanning...
+2025-04-11 15:16:53.716714 Button Pressed
+2025-04-11 15:17:24.324381 Wait for Count
+2025-04-11 15:17:37.060540 GPIOReader scanning...
+2025-04-11 15:17:37.060540 Button Pressed
+2025-04-11 15:18:07.850864 Wait for Count
+2025-04-11 15:18:16.323713 GPIOReader scanning...
+2025-04-11 15:18:16.323713 Button Pressed
+2025-04-11 15:18:50.952093 Wait for Count
+2025-04-11 15:19:03.702724 GPIOReader scanning...
+2025-04-11 15:19:03.702724 Button Pressed
+2025-04-11 15:19:34.444412 Wait for Count
+2025-04-11 15:19:47.185774 GPIOReader scanning...
+2025-04-11 15:19:47.185774 Button Pressed
+2025-04-11 15:20:17.967582 Wait for Count
+2025-04-11 15:20:30.721423 GPIOReader scanning...
+2025-04-11 15:20:30.721423 Button Pressed
+2025-04-11 15:21:01.436774 Wait for Count
+2025-04-11 15:21:14.147610 GPIOReader scanning...
+2025-04-11 15:21:14.147610 Button Pressed
+2025-04-11 15:21:44.417766 Wait for Count
+2025-04-11 15:21:57.142005 GPIOReader scanning...
+2025-04-11 15:21:57.142005 Button Pressed
+2025-04-11 15:22:28.002946 Wait for Count
+2025-04-11 15:22:40.717301 GPIOReader scanning...
+2025-04-11 15:22:40.717301 Button Pressed
+2025-04-11 15:23:11.450152 Wait for Count
+2025-04-11 15:23:19.978851 GPIOReader scanning...
+2025-04-11 15:23:19.978851 Button Pressed
+2025-04-11 15:23:54.818371 Wait for Count
+2025-04-11 15:24:07.522247 GPIOReader scanning...
+2025-04-11 15:24:07.522247 Button Pressed
+2025-04-11 15:24:37.993606 Wait for Count
+2025-04-11 15:24:46.450789 GPIOReader scanning...
+2025-04-11 15:24:46.450789 Button Pressed
+2025-04-11 15:25:21.511821 Wait for Count
+2025-04-11 15:25:34.233386 GPIOReader scanning...
+2025-04-11 15:25:34.233386 Button Pressed
+2025-04-11 15:26:05.030068 Wait for Count
+2025-04-11 15:26:17.740558 GPIOReader scanning...
+2025-04-11 15:26:17.740558 Button Pressed
+2025-04-11 15:26:48.454074 Wait for Count
+2025-04-11 15:27:01.212694 GPIOReader scanning...
+2025-04-11 15:27:01.212694 Button Pressed
+2025-04-11 15:27:31.731122 Wait for Count
+2025-04-11 15:27:44.446144 GPIOReader scanning...
+2025-04-11 15:27:44.446144 Button Pressed
+2025-04-11 15:28:14.807349 Wait for Count
+2025-04-11 15:28:27.569964 GPIOReader scanning...
+2025-04-11 15:28:27.569964 Button Pressed
+2025-04-11 15:28:57.741928 Wait for Count
+2025-04-11 15:29:10.454770 GPIOReader scanning...
+2025-04-11 15:29:10.454770 Button Pressed
+2025-04-11 15:29:40.869720 Wait for Count
+2025-04-11 15:29:53.593186 GPIOReader scanning...
+2025-04-11 15:29:53.593186 Button Pressed
+2025-04-11 15:30:23.842413 Wait for Count
+2025-04-11 15:30:36.558623 GPIOReader scanning...
+2025-04-11 15:30:36.558623 Button Pressed
+2025-04-11 15:31:06.811414 Wait for Count
+2025-04-11 15:31:19.528451 GPIOReader scanning...
+2025-04-11 15:31:19.528451 Button Pressed
+2025-04-11 15:31:50.059064 Wait for Count
+2025-04-11 15:32:02.783407 GPIOReader scanning...
+2025-04-11 15:32:02.783407 Button Pressed
+2025-04-11 15:32:33.216134 Wait for Count
+2025-04-11 15:32:45.926760 GPIOReader scanning...
+2025-04-11 15:32:45.926760 Button Pressed
+2025-04-11 15:33:16.272928 Wait for Count
+2025-04-11 15:33:28.989419 GPIOReader scanning...
+2025-04-11 15:33:28.989419 Button Pressed
+2025-04-11 15:33:59.361161 Wait for Count
+2025-04-11 15:34:12.078370 GPIOReader scanning...
+2025-04-11 15:34:12.078370 Button Pressed
+2025-04-11 15:34:42.214552 Wait for Count
+2025-04-11 15:34:54.960658 GPIOReader scanning...
+2025-04-11 15:34:54.960658 Button Pressed
+2025-04-11 15:35:25.311144 Wait for Count
+2025-04-11 15:35:38.032511 GPIOReader scanning...
+2025-04-11 15:35:38.032511 Button Pressed
+2025-04-11 15:36:08.263160 Wait for Count
+2025-04-11 15:36:21.019555 GPIOReader scanning...
+2025-04-11 15:36:21.019555 Button Pressed
+2025-04-11 15:36:51.327658 Wait for Count
+2025-04-11 15:37:04.041401 GPIOReader scanning...
+2025-04-11 15:37:04.041401 Button Pressed
+2025-04-11 15:37:34.205426 Wait for Count
+2025-04-11 15:37:46.926313 GPIOReader scanning...
+2025-04-11 15:37:46.926313 Button Pressed
+2025-04-11 15:38:17.173796 Wait for Count
+2025-04-11 15:38:29.888104 GPIOReader scanning...
+2025-04-11 15:38:29.888104 Button Pressed
+2025-04-11 15:39:00.387895 Wait for Count
+2025-04-11 15:39:08.881188 GPIOReader scanning...
+2025-04-11 15:39:08.881188 Button Pressed
+2025-04-11 15:39:43.752688 Wait for Count
+2025-04-11 15:39:56.467386 GPIOReader scanning...
+2025-04-11 15:39:56.467386 Button Pressed
+2025-04-11 15:40:26.869642 Wait for Count
+2025-04-11 15:40:35.323743 GPIOReader scanning...
+2025-04-11 15:40:35.323743 Button Pressed
+2025-04-11 15:41:09.827593 Wait for Count
+2025-04-11 15:41:22.540100 GPIOReader scanning...
+2025-04-11 15:41:22.540100 Button Pressed
+2025-04-11 15:41:52.929432 Wait for Count
+2025-04-11 15:42:01.390923 GPIOReader scanning...
+2025-04-11 15:42:01.390923 Button Pressed
+2025-04-11 15:42:35.643518 Wait for Count
+2025-04-11 15:42:48.353920 GPIOReader scanning...
+2025-04-11 15:42:48.353920 Button Pressed
+2025-04-11 15:43:18.803143 Wait for Count
+2025-04-11 15:43:31.603774 GPIOReader scanning...
+2025-04-11 15:43:31.603774 Button Pressed
+2025-04-11 15:44:02.100649 Wait for Count
+2025-04-11 15:44:14.831786 GPIOReader scanning...
+2025-04-11 15:44:14.831786 Button Pressed
+2025-04-11 16:21:59.383207 Wait for Count
+2025-04-11 16:22:07.871474 GPIOReader scanning...
+2025-04-11 16:22:07.871474 Button Pressed
+2025-04-11 16:22:44.513273 Wait for Count
+2025-04-11 16:22:57.294578 GPIOReader scanning...
+2025-04-11 16:22:57.294578 Button Pressed
+2025-04-11 16:23:29.287805 Wait for Count
+2025-04-11 16:23:42.047255 GPIOReader scanning...
+2025-04-11 16:23:42.047255 Button Pressed
+2025-04-11 16:24:14.289383 Wait for Count
+2025-04-11 16:24:26.982218 GPIOReader scanning...
+2025-04-11 16:24:26.982218 Button Pressed
+2025-04-11 16:24:58.983708 Wait for Count
+2025-04-11 16:25:11.701934 GPIOReader scanning...
+2025-04-11 16:25:11.701934 Button Pressed
+2025-04-11 16:25:43.299581 Wait for Count
+2025-04-11 16:25:56.006581 GPIOReader scanning...
+2025-04-11 16:25:56.006581 Button Pressed
+2025-04-11 16:26:27.398485 Wait for Count
+2025-04-11 16:26:40.110873 GPIOReader scanning...
+2025-04-11 16:26:40.110873 Button Pressed
+2025-04-11 16:27:11.608757 Wait for Count
+2025-04-11 16:27:20.114082 GPIOReader scanning...
+2025-04-11 16:27:20.114082 Button Pressed
+2025-04-11 16:27:55.800487 Wait for Count
+2025-04-11 16:28:08.529933 GPIOReader scanning...
+2025-04-11 16:28:08.529933 Button Pressed
+2025-04-11 16:28:39.658249 Wait for Count
+2025-04-11 16:28:52.372702 GPIOReader scanning...
+2025-04-11 16:28:52.372702 Button Pressed
+2025-04-11 16:29:24.174414 Wait for Count
+2025-04-11 16:29:36.879253 GPIOReader scanning...
+2025-04-11 16:29:36.879253 Button Pressed
+2025-04-14 09:11:38.946555 Wait for Count
+2025-04-14 09:11:47.437761 GPIOReader scanning...
+2025-04-14 09:11:47.437761 Button Pressed
+2025-04-14 09:11:47.666938 Wait for Count
+2025-04-14 09:11:56.166659 GPIOReader scanning...
+2025-04-14 09:11:56.166659 Button Pressed
+2025-04-14 09:11:56.396252 Wait for Count
+2025-04-14 09:12:04.852340 GPIOReader scanning...
+2025-04-14 09:12:04.852340 Button Pressed
+2025-04-14 09:12:05.081188 Wait for Count
+2025-04-14 09:12:13.593143 GPIOReader scanning...
+2025-04-14 09:12:13.593143 Button Pressed
+2025-04-14 09:12:13.822140 Wait for Count
+2025-04-14 09:12:22.335533 GPIOReader scanning...
+2025-04-14 09:12:22.335533 Button Pressed
+2025-04-14 09:12:22.638596 Wait for Count

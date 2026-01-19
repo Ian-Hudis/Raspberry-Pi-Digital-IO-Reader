@@ -1,0 +1,6 @@
+@reboot sleep 20 && /home/pi/Desktop/MTConnectAdapter.sh > /home/pi/Desktop/my.>
+
+@reboot sleep 20 && /home/pi/Desktop/ReadVar.sh > /home/pi/Desktop/SaveData/thy>
+
+# automatic reboot at 3:00 am Monday morning
+0 3 * * 1 sudo shutdown -r now
